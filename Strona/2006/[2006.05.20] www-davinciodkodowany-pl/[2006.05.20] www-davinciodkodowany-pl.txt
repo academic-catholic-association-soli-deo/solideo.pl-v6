@@ -1,0 +1,11 @@
+
+# www.davinciodkodowany.pl
+
+<time>teraz</time>
+
+teraz | Pod adresem [link%n%n%www.odkoduj.pl] ([br][link%n%n%www.davinciodkodowany.pl]) rusza strona[br]internetowa poświęcona merytorycznej krytyce fałszerstw przedstawionych w "Kodzie Leonarda da Vinci". Charakter tego miejsca oddaje w pełni[br]hasło "Odważni szukają Prawdy!", ponieważ odkoduj.pl to przede wszystkim forum[br]wymiany informacji na temat historycznie udokumentowanej prawdy o Chrystusie, Piśmie Świętym i Kościele katolickim.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): teraz | Pod adresem [link%n%n%www.odkoduj.pl] ([br][link%n%n%www.davinciodkodowany.pl]) rusza strona[br]internetowa poświęcona merytorycznej krytyce fałszerstw przedstawionych w "Kodzie Leonarda da Vinci". Charakter tego miejsca oddaje w pełni[br]hasło "Odważni szukają Prawdy!", ponieważ odkoduj.pl to przede wszystkim forum[br]wymiany informacji na temat historycznie udokumentowanej prawdy o Chrystusie, Piśmie Świętym i Kościele katolickim.
+-->
+
+<!--{{json:{"created_date":"2006-05-20 19:09:54","publish_down":"0000-00-00 00:00:00","id":"360"}}}-->

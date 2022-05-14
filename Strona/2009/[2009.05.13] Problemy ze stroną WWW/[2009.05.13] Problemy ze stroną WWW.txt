@@ -1,0 +1,14 @@
+
+# Problemy ze stroną WWW
+
+<time>maj</time>
+
+maj | W ostatnim czasie mogliście napotkać problemy techniczne związane z naszą stroną internetową. Związane są one z modernizacją sprzętu, na którym jest ona umieszczona i oprogramowania, które ją obsługuje. Przepraszamy za wszelkie niedogodności i prosimy o wyrozumiałość. 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): maj | W ostatnim czasie mogliście napotkać problemy techniczne związane z naszą stroną internetową. Związane są one z modernizacją sprzętu, na którym jest ona umieszczona i oprogramowania, które ją obsługuje. Przepraszamy za wszelkie niedogodności i prosimy o wyrozumiałość. 
+
+
+-->
+
+<!--{{json:{"created_date":"2009-05-13 14:13:04","publish_down":"0000-00-00 00:00:00","id":"758"}}}-->

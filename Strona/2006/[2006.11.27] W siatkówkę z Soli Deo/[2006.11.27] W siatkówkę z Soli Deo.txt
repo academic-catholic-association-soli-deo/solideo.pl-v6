@@ -1,0 +1,23 @@
+
+# W siatkówkę z Soli Deo
+
+<time>każda niedziela, godz. 19:30</time>
+
+każda niedziela, godz. 19:30 | 
+Jeśli jesteś spragniony ruchu i rekreacji w towarzystwie Soli Deo, to mamy coś dla Ciebie ;) W każdą niedzielę wieczorem gramy w siatkówkę!
+Zapraszamy od godz. 19:30 do 21:00 do sali przy ul. Wiśniowej 41 (SGH, budynek W) (patrz [link%x%MAPKI%index.php?ms1=mainsite_info&ms2=mapki&lang=pl]), na której w wakacje została położona **super-hiper nowoczesna nawierzchnia** . Trzeba wziąć buty na zmianę i jeśli ktoś ma - piłkę (siatki już nie trzeba :))). 
+*kontakt:* Zbyszek Kaliszuk ([mail%n%prezes@solideo.pl], 504 754 742), Tomek Giłyk, organizator główny, jest kontuzjowany (zdroofka!) (tel. 668853971)
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): każda niedziela, godz. 19:30 | 
+Jeśli jesteś spragniony ruchu i rekreacji w towarzystwie Soli Deo, to mamy coś dla Ciebie ;) W każdą niedzielę wieczorem gramy w siatkówkę!
+
+
+Zapraszamy od godz. 19:30 do 21:00 do sali przy ul. Wiśniowej 41 (SGH, budynek W) (patrz [link%x%MAPKI%index.php?ms1=mainsite_info&ms2=mapki&lang=pl]), na której w wakacje została położona **super-hiper nowoczesna nawierzchnia** . Trzeba wziąć buty na zmianę i jeśli ktoś ma - piłkę (siatki już nie trzeba :))). 
+
+
+*kontakt:* Zbyszek Kaliszuk ([mail%n%prezes@solideo.pl], 504 754 742), Tomek Giłyk, organizator główny, jest kontuzjowany (zdroofka!) (tel. 668853971)
+
+-->
+
+<!--{{json:{"created_date":"2006-11-27 23:23:53","publish_down":"0000-00-00 00:00:00","id":"425"}}}-->

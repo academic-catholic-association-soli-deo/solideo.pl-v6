@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.insertFinalNewline": true,
+    "editor.rulers": [
+      96,
+      100
+    ],
+    "editor.minimap.maxColumn": 90,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontLigatures": true,
+    "editor.renderControlCharacters": true,
+    "editor.tabCompletion": "on"
+  }

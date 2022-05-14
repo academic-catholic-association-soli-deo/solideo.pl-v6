@@ -1,0 +1,23 @@
+Jak edytować menu? – INSTRUKCJA
+===============================
+
+Menu jest generowane na podstawie pliku menu.json znajdującego się w tym folderze.
+Struktura pliku to format JSON (więcej o nim tutaj: http://www.json.org/json-pl.html).
+Należy pamiętać, że wszystkie wartości tekstowe muszą być otoczone apostrofami: "tekst".
+Struktura pliku wygląda tak:
+
+{
+  "Element na pasku": "/Adres-tego-elementu",
+  "Element na pasku z rozwijanym menu": {
+    "Link pierwszy": "/Folder-dokumentu",
+    "Link drugi": "/O-nas/Kim-jesteśmy"
+  }
+}
+
+Należy pamiętać, że:
+1. Spacje w nazwie folderu należy zastąpić znakiem "-" myślnika (nie pomylić go z długim myślnikiem: "—").
+2. Jeżeli folder zawiera w nazwie polskie znaki, to w adresie w menu też muszą się one znaleźć
+3. Nie dodajemy na początku adresu "https://solideo.pl/" to zła praktyka, bo jeżeli zmienimy strukturę adresów, to zrobi się bałagan.
+4. Należy pamiętać o przecinkach jeżeli obiekt {...} zawiera więcej niż jeden element. Po ostatnim elemencie nie dajemy przecinka.
+5. Jeżeli będzie błąd w pliku menu, błąd wyświetli się na stronie, lub po wejściu na stronę zobaczymy tylko "500 Internal Server Error". W takim przypadku można sprawdzić poprawność dokumentu w validatorze: np.: https://jsonlint.com/
+6. Mapowanie adresów: Wszystkie adresy są mapowane na pliki w folderze /Strona. Np: "/O-nas/Kim-jesteśmy" => "/Strona/O nas/Kim jesteśmy/[dowolny plik tekstowy].txt"

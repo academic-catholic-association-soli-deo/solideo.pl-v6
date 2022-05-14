@@ -1,0 +1,12 @@
+
+# 404
+
+<time>2004-11-11 12:44:38</time>
+
+
+# 404: Strony nie znaleziono
+
+Przykro nam, ale strona, której szukasz, nie istnieje.
+
+
+<!--{{json:{"created_date":"2004-11-11 12:44:38","publish_down":"0000-00-00 00:00:00","id":"1028"}}}-->

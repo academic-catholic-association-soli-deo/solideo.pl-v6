@@ -1,0 +1,19 @@
+
+# Fotorelacja z wyjazdu do Górkek
+
+<time>dziś</time>
+
+dziś | 
+Zapraszamy do obejrzenia relacji fotograficznej z wyjazdu rekolekcyjno-integracyjnego w Górkach koło Garwolina. 
+Fotografie udostepniamy Wam dzięki uprzejmości Piotrka Woźniakiewicza i Piotrka Dittwalda.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | 
+Zapraszamy do obejrzenia relacji fotograficznej z wyjazdu rekolekcyjno-integracyjnego w Górkach koło Garwolina. 
+
+
+Fotografie udostepniamy Wam dzięki uprzejmości Piotrka Woźniakiewicza i Piotrka Dittwalda.
+
+-->
+
+<!--{{json:{"created_date":"2008-10-10 15:37:13","publish_down":"0000-00-00 00:00:00","id":"658"}}}-->

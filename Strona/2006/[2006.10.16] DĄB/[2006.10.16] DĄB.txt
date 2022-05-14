@@ -1,0 +1,11 @@
+
+# DĄB
+
+<time>19.10.2006</time>
+
+19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach". Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach". Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+-->
+
+<!--{{json:{"created_date":"2006-10-16 13:16:48","publish_down":"0000-00-00 00:00:00","id":"392"}}}-->

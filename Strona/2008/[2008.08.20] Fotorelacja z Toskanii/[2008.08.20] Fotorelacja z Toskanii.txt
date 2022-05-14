@@ -1,0 +1,15 @@
+
+# Fotorelacja z Toskanii
+
+<time>dziś</time>
+
+dziś | 
+Zapraszamy do obejrzenia fotorelacji z wyjazdu Soli Deo do Toskanii.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | 
+Zapraszamy do obejrzenia fotorelacji z wyjazdu Soli Deo do Toskanii.
+
+-->
+
+<!--{{json:{"created_date":"2008-08-20 16:29:46","publish_down":"0000-00-00 00:00:00","id":"639"}}}-->

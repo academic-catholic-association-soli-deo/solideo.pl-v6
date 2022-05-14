@@ -1,0 +1,11 @@
+
+# [AM] Rekolekcje Wielkopostne
+
+<time>13-15 marca 2006, godz.19:00</time>
+
+13-15 marca 2006, godz.19:00 | Zapraszamy na [b]pierwsze Rekolekcje Wielkopostne, które odbędą się w murach Akademii Medycznej[/b] w dniach 13 -15 marca w sali Paszkiewicza w Anatomicum (ul. Chałubińskiego 5). Poprowadzi je dla nas Ks. Dariusz Szyszka ze Św. Anny. Tematem przewodnim będzie:[b]"Chcę wyprowadzić Cię na pustynię i mówić do Twego serca".[/b] [br]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 13-15 marca 2006, godz.19:00 | Zapraszamy na [b]pierwsze Rekolekcje Wielkopostne, które odbędą się w murach Akademii Medycznej[/b] w dniach 13 -15 marca w sali Paszkiewicza w Anatomicum (ul. Chałubińskiego 5). Poprowadzi je dla nas Ks. Dariusz Szyszka ze Św. Anny. Tematem przewodnim będzie:[b]"Chcę wyprowadzić Cię na pustynię i mówić do Twego serca".[/b] [br]
+-->
+
+<!--{{json:{"created_date":"2006-03-07 21:26:15","publish_down":"0000-00-00 00:00:00","id":"315"}}}-->

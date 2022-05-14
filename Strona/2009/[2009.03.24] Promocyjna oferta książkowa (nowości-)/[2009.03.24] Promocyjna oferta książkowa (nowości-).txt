@@ -1,0 +1,21 @@
+
+# Promocyjna oferta książkowa (nowości!)
+
+<time>dziś</time>
+
+dziś | 
+Zapraszamy do nabycia wartościowych książek i płyt CD. U nas kupisz je najtaniej na rynku! (ok. 25% taniej niż na rynku).&nbsp; 
+W tym semestrze nasza oferta została wzbogacona o nowe pozycje. W szczególności polecamy przepiękne książki [Jesienna Miłość](http://www.solideo.pl/sd/index.php?ms1=projekty&gr_id=9&ps_id=329&lang=pl) i [Każdy ma swoje Kilimandżaro](http://www.solideo.pl/sd/index.php?ms1=projekty&gr_id=9&ps_id=324&lang=pl). 
+Książki możesz nabyć podczas spotkań z cyklu "Poruszyć Niebo i Ziemię" i w pokojach Soli Deo na SGH i UKSW
+**Więcej informacji i Pełna oferta** =&gt; klik więcej
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | 
+Zapraszamy do nabycia wartościowych książek i płyt CD. U nas kupisz je najtaniej na rynku! (ok. 25% taniej niż na rynku).&nbsp; 
+W tym semestrze nasza oferta została wzbogacona o nowe pozycje. W szczególności polecamy przepiękne książki [Jesienna Miłość](http://www.solideo.pl/sd/index.php?ms1=projekty&gr_id=9&ps_id=329&lang=pl) i [Każdy ma swoje Kilimandżaro](http://www.solideo.pl/sd/index.php?ms1=projekty&gr_id=9&ps_id=324&lang=pl). 
+Książki możesz nabyć podczas spotkań z cyklu "Poruszyć Niebo i Ziemię" i w pokojach Soli Deo na SGH i UKSW
+**Więcej informacji i Pełna oferta** =&gt; klik więcej
+
+-->
+
+<!--{{json:{"created_date":"2009-03-24 16:28:09","publish_down":"0000-00-00 00:00:00","id":"709"}}}-->

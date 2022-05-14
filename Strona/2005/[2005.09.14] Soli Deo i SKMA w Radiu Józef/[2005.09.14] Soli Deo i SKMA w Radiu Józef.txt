@@ -1,0 +1,11 @@
+
+# Soli Deo i SKMA w Radiu Józef
+
+<time>każdy 4. poniedziałek miesiąca</time>
+
+każdy 4. poniedziałek miesiąca | Przez cały rok będzie można nas usłyszeć w każdy [b]czwarty poniedziałek miesiąca o 19:00[/b] na sielskich falach Radia Józef (96,5 FM). Będziemy rozmawiać o sprawach studenckich, ze studentami i specjalnie zaproszonymi gośćmi. Pierwsza audycja juz 26 wrzesnia, a prowadzić ją będą członkowie Soli Deo i SKMA pod czujnym okiem Michała Kęski. Zapraszamy do słuchania!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): każdy 4. poniedziałek miesiąca | Przez cały rok będzie można nas usłyszeć w każdy [b]czwarty poniedziałek miesiąca o 19:00[/b] na sielskich falach Radia Józef (96,5 FM). Będziemy rozmawiać o sprawach studenckich, ze studentami i specjalnie zaproszonymi gośćmi. Pierwsza audycja juz 26 wrzesnia, a prowadzić ją będą członkowie Soli Deo i SKMA pod czujnym okiem Michała Kęski. Zapraszamy do słuchania!  
+-->
+
+<!--{{json:{"created_date":"2005-09-14 19:55:13","publish_down":"0000-00-00 00:00:00","id":"248"}}}-->

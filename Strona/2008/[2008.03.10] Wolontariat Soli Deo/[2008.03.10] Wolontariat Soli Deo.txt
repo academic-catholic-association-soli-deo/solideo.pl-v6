@@ -1,0 +1,13 @@
+
+# Wolontariat Soli Deo
+
+<time>13 marca 2008, godz. 18.oo</time>
+
+13 marca 2008, godz. 18.oo | Serdecznie zapraszamy na spotkanie informacyjne, dotyczące wolontariatu
+ASK Soli Deo - SGH, sala 463 G
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 13 marca 2008, godz. 18.oo | Serdecznie zapraszamy na spotkanie informacyjne, dotyczące wolontariatu
+ASK Soli Deo - SGH, sala 463 G
+-->
+
+<!--{{json:{"created_date":"2008-03-10 09:12:46","publish_down":"0000-00-00 00:00:00","id":"586"}}}-->

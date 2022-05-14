@@ -1,0 +1,11 @@
+
+# [PW] Inauguracja roku akademickiego 2006/2007 MSZA ŚW
+
+<time>2 października 2006, godz. 8:00</time>
+
+2 października 2006, godz. 8:00 | Serdecznie zapraszamy na Mszę św. inauguracyjną, którą odprawi [b] J.E. ks Józef Kardynał Glemp [/b], Prymas Polski w kościele Najświętszego Zbawiciela, Warszawa, [u] Pl. Zbawiciela w dniu 2.10.br o godz. 8.00 [/u]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 2 października 2006, godz. 8:00 | Serdecznie zapraszamy na Mszę św. inauguracyjną, którą odprawi [b] J.E. ks Józef Kardynał Glemp [/b], Prymas Polski w kościele Najświętszego Zbawiciela, Warszawa, [u] Pl. Zbawiciela w dniu 2.10.br o godz. 8.00 [/u]
+-->
+
+<!--{{json:{"created_date":"2006-09-19 13:31:40","publish_down":"0000-00-00 00:00:00","id":"374"}}}-->

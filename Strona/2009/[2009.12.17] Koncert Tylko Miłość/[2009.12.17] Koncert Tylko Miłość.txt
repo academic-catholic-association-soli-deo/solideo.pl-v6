@@ -1,0 +1,19 @@
+
+# Koncert Tylko Miłość
+
+<time>20 stycznia godz. 19</time>
+
+20 stycznia godz. 19 | 20 stycznia (środa), godz. 19:00 zapraszamy na Koncert Tylko Miłość
+
+w wykonaniu: A&D, Muńka Staszczyka, Darka Maleo Malejonka i innych gości
+
+W ramach cyklu Bielańska Scena Muzyczna
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 20 stycznia godz. 19 | 20 stycznia (środa), godz. 19:00 zapraszamy na Koncert Tylko Miłość
+
+w wykonaniu: A&D, Muńka Staszczyka, Darka Maleo Malejonka i innych gości
+
+W ramach cyklu Bielańska Scena Muzyczna
+-->
+
+<!--{{json:{"created_date":"2009-12-17 17:23:05","publish_down":"0000-00-00 00:00:00","id":"825"}}}-->

@@ -1,0 +1,12 @@
+
+# Msza Św. Soli Deo
+
+<time>6 luty 2008</time>
+
+6 luty 2008 | 
+W Środę Popielcową o godzinie 19.30 w dolnym kościele parafii pw Najświętszego Zbawiciela odbędzie się Msza Święta dla członków i sympatyków Soli Deo.
+Mszę odprawi nasz kapelan, ksiądz Józef Maj.
+Po Mszy będzie okazja do adoracji Jezusa w Najświętszym Sakramencie.
+
+
+<!--{{json:{"created_date":"2008-02-02 00:10:21","publish_down":"0000-00-00 00:00:00","id":"564"}}}-->

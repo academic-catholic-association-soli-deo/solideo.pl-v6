@@ -1,0 +1,29 @@
+
+# 100 x Newsletter ASK Soli Deo
+
+<time>dziś</time>
+
+dziś | 
+Niedawno wydaliśmy SETNY numer Newslettera ASK Soli Deo. Przy tej okazji postanowiliśmy poprawić jego wygląd, dodając nieco kolorów i ułożyć informacje tak, by łatwiej się je czytało i odnajdywało. Dodaliśmy również nowe działy. Mamy nadzieję, że z entuzjazmem przyjmiecie tę nową formę. Wszystkie numery można oglądać w archiwum - przykładowo, ostatni 101. numer można obejrzeć [tutaj](http://solideo.pl/sd/mainsite/newsletter/arch.php?ar=(101)%202008.04.07.htm&lang=pl).
+
+Nieprzerwanie zapraszamy Was do regularnego czytania Newslettera - jeden e-mail co tydzień z informacjami o wydarzeniach Soli Deo i naszych przyjaciół (Duszpasterstwa Akademickie "DĄB", "Kaganek", Mistrzowska Akademia Miłości i inni) - to może być coś akurat dla Ciebie!
+
+Z otwartymi rękoma witamy jednocześnie wszystkich chętnych do twórczego współtworzenia naszego Newslettera, jak również do przesyłania informacji o ciekawych wydarzeniach.
+
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | 
+Niedawno wydaliśmy SETNY numer Newslettera ASK Soli Deo. Przy tej okazji postanowiliśmy poprawić jego wygląd, dodając nieco kolorów i ułożyć informacje tak, by łatwiej się je czytało i odnajdywało. Dodaliśmy również nowe działy. Mamy nadzieję, że z entuzjazmem przyjmiecie tę nową formę. Wszystkie numery można oglądać w archiwum - przykładowo, ostatni 101. numer można obejrzeć [tutaj](http://solideo.pl/sd/mainsite/newsletter/arch.php?ar=(101)%202008.04.07.htm&lang=pl).
+
+
+
+Nieprzerwanie zapraszamy Was do regularnego czytania Newslettera - jeden e-mail co tydzień z informacjami o wydarzeniach Soli Deo i naszych przyjaciół (Duszpasterstwa Akademickie "DĄB", "Kaganek", Mistrzowska Akademia Miłości i inni) - to może być coś akurat dla Ciebie!
+
+
+
+Z otwartymi rękoma witamy jednocześnie wszystkich chętnych do twórczego współtworzenia naszego Newslettera, jak również do przesyłania informacji o ciekawych wydarzeniach.
+
+
+-->
+
+<!--{{json:{"created_date":"2008-04-08 17:37:16","publish_down":"0000-00-00 00:00:00","id":"607"}}}-->

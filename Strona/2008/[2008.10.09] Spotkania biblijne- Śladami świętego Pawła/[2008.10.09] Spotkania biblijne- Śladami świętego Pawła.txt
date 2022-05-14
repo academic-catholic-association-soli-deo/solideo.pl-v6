@@ -1,0 +1,13 @@
+
+# Spotkania biblijne: Śladami świętego Pawła
+
+<time>wtorki 19:30</time>
+
+wtorki 19:30 | 
+Spotkania będą się odbywać w kaplicy akademickiej przy Sanktuarium św Andrzeja Boboli, na Rakowieckiej
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): wtorki 19:30 | 
+Spotkania będą się odbywać w kaplicy akademickiej przy Sanktuarium św Andrzeja Boboli, na Rakowieckiej         
+-->
+
+<!--{{json:{"created_date":"2008-10-09 00:13:32","publish_down":"0000-00-00 00:00:00","id":"656"}}}-->

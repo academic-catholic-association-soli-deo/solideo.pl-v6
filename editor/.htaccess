@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,QSA]
+
+
+AuthName "Please authenticate"
+AuthUserFile /home/asksolidvn/solideo.pl-editor-htapasswd
+AuthType Basic
+<Limit GET POST>
+    require user adminSoliDeoPerMaria7070
+</Limit>

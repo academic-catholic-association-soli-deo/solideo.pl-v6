@@ -1,0 +1,17 @@
+
+# Wielkopostne Orędzie Ojca Świętego
+
+<time>Wielki  Post</time>
+
+Wielki  Post | 
+Zachęcamy do zapoznania się z Orędziem Ojca Świętego, Benedykta XVI, na Wielki Post AD 2009.
+Wystarczy klknąć w Więcej i zagłębić się w lekturze.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Wielki  Post | 
+Zachęcamy do zapoznania się z Orędziem Ojca Świętego, Benedykta XVI, na Wielki Post AD 2009.
+Wystarczy klknąć w Więcej i zagłębić się w lekturze.
+
+-->
+
+<!--{{json:{"created_date":"2009-02-24 21:19:08","publish_down":"0000-00-00 00:00:00","id":"713"}}}-->

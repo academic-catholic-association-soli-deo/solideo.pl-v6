@@ -1,0 +1,11 @@
+
+# news@solideo.pl
+
+<time>od dziś</time>
+
+od dziś | prosimy, bycie przesyłali wszystkie WIADOMOCI ZE WIATA, Z KRAJU ZWIĽZANE Z CHRZECIJAŃSTWEM, ZE STUDENTAMI ITP. Na adres: [b]news@solideo.pl[/b][br]Wiadomoci posegregujemy; ciekawe będš:[br]1) omówione w audycji w Radiu Józef [br]2) wywietlone na stronie głównej SOLIDEO.PL[br]3) umieszczone w Newsletterze
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): od dziś | prosimy, bycie przesyłali wszystkie WIADOMOCI ZE WIATA, Z KRAJU ZWIĽZANE Z CHRZECIJAŃSTWEM, ZE STUDENTAMI ITP. Na adres: [b]news@solideo.pl[/b][br]Wiadomoci posegregujemy; ciekawe będš:[br]1) omówione w audycji w Radiu Józef [br]2) wywietlone na stronie głównej SOLIDEO.PL[br]3) umieszczone w Newsletterze
+-->
+
+<!--{{json:{"created_date":"2005-09-22 15:49:53","publish_down":"0000-00-00 00:00:00","id":"249"}}}-->

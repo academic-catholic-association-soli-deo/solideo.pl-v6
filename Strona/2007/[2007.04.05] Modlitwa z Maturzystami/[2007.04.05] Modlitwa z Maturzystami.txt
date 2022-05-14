@@ -1,0 +1,13 @@
+
+# Modlitwa z Maturzystami
+
+<time>11,18,25 kwietnia</time>
+
+11,18,25 kwietnia | Zapraszamy na modlitwy z maturzystami w trzy środy kwietnia: 11, 18 i 25. Rozpoczynamy zawsze o 20:00 w kaplicy akademickiej przy Sanktuarium Andrzeja Boboli. 
+Pierwsze spotkanie bedzie MODLITWĄ ŚWIATŁA. Maturzysto, zapraszamy jesli chcesz powierzyć to, co przed Toba Jezusowi we wspólnej modlitwie ze studentami - śpiewem, gestem, medytacją nad Słowem Bożym, radością bycia we wspólnocie.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 11,18,25 kwietnia | Zapraszamy na modlitwy z maturzystami w trzy środy kwietnia: 11, 18 i 25. Rozpoczynamy zawsze o 20:00 w kaplicy akademickiej przy Sanktuarium Andrzeja Boboli. 
+Pierwsze spotkanie bedzie MODLITWĄ ŚWIATŁA. Maturzysto, zapraszamy jesli chcesz powierzyć to, co przed Toba Jezusowi we wspólnej modlitwie ze studentami - śpiewem, gestem, medytacją nad Słowem Bożym, radością bycia we wspólnocie. 
+-->
+
+<!--{{json:{"created_date":"2007-04-05 17:23:10","publish_down":"0000-00-00 00:00:00","id":"480"}}}-->
