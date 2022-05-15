@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Metanoia — droga do Boga — ks. Piotr Pawlukiewicz",
+  "startDate": "2017-10-25T18:00+2:00",
+  "endDate": "2017-10-25T20:00+2:00",
+  "location": {
+    "@type": "Place",
+    "name": "Kampus SGGW",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "ul. Nowoursynowska 166",
+      "addressLocality": "Warszawa",
+      "postalCode": "02-786",
+      "addressCountry": "PL"
+    }
+  },
+  "image": "_dir_/metanoia-droga-do-boga.png",
+  "description": "Ksiądz Piotr Pawlukiewicz - kaznodzieja, którego zna cała Polska. Swoim poczuciem humoru i odwagą podbija serca nie tylko „ugruntowanych katolików”, ale także, a może przede wszystkim, osoby młode, zagubione, szukające odpowiedzi na trudne pytania dotyczące wiary i życia. Zapraszamy na ostatnią konferencję cyklu „Plony Życia”. Ksiądz Pawlukiewicz opowie nam o metanoi - nawróceniu, zmianie nie tylko myślenia, ale również postępowania. Wskaże nam to Drogę, która do Niego prowadzi. Nie obiecujemy jednak, że Droga ta będzie prosta. Jesteś zainteresowany? Przyjdź!",
+  "performer": {
+    "@type": "Person",
+    "name": "ks. Piotr Pawlukiewicz",
+    "image": "_dir_/ks-piotr-pawlukiewicz.jpg"
+  },
+  "organizer": {
+  	"@type": "Organization",
+  	"url": "https://www.solideo.pl",
+  	"name": "Akademickie Stowarzyszenie Katolickie Soli Deo",
+  	"email": "kontakt@solideo.pl",
+  	"logo": "https://solideo.pl/img/solideo-logo-833x1000.png"
+  },
+  "url": "_link_"
+}

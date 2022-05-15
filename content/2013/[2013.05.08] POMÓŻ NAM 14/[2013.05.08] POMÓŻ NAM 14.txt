@@ -1,0 +1,8 @@
+
+# POMÓŻ NAM 14
+
+<time>dziś</time>
+
+dziś | Jeśli chcial(a)byś zrobić coś dobrego dla innych, poznać wartościowych ludzi ze swojej uczelni to zachecamy do włączenia się w naszą działalność. Specjalnie dla Ciebie uruchomiliśmy serwis **"POMÓŻ NAM " **w ktorym prezentujemy projekty, przy organizacji których mógł(a)byś nas wspomóc.
+
+<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"380"}}}-->

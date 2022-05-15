@@ -1,0 +1,53 @@
+
+# Nowa galeria zdjęć
+
+<time>dziś</time>
+
+dziś | 
+W dziale multimedia zamieniliśmy starą, niezbyt funkcjonalną galerię na zupełnie nową, o bardzo wielu ciekawych funkcjach. *Teraz możecie: 
+
+** **przeglądać** wygodnie wiele folderów ze zdjęciami (3 poziomy wielkości) 
+
+* dodawać **komentarze** do zdjęć (!)
+
+* **oceniać** fotki w skali 1-5 (!) 
+
+* zobaczyć **13 najpopularniejszych **zdjęć (!) 
+
+* **wyszukiwać** zdjęcia po nazwie/ opisie/ komentarzu 
+
+A do tego.. w galerii jest ponad 2100 fotek z Sylwestra w Dusznikach Zdroju! 
+
+Gsleria dostępna jest pod łatwym do zapamiętania adresem:[ http://solideo.pl/galeria/](http://www.solideo.pl/galeria/)
+
+Nowa galerii powstała na bazie TinyWebGallery.         
+
+         
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | 
+W dziale multimedia zamieniliśmy starą, niezbyt funkcjonalną galerię na zupełnie nową, o bardzo wielu ciekawych funkcjach. *Teraz możecie: 
+
+** **przeglądać** wygodnie wiele folderów ze zdjęciami (3 poziomy wielkości) 
+
+* dodawać **komentarze** do zdjęć (!)
+
+* **oceniać** fotki w skali 1-5 (!) 
+
+* zobaczyć **13 najpopularniejszych **zdjęć (!) 
+
+* **wyszukiwać** zdjęcia po nazwie/ opisie/ komentarzu 
+
+A do tego.. w galerii jest ponad 2100 fotek z Sylwestra w Dusznikach Zdroju! 
+
+Gsleria dostępna jest pod łatwym do zapamiętania adresem:[ http://solideo.pl/galeria/](http://www.solideo.pl/galeria/)
+
+
+
+Nowa galerii powstała na bazie TinyWebGallery.         
+
+         
+
+-->
+
+<!--{{json:{"created_date":"2007-01-10 02:48:30","publish_down":"0000-00-00 00:00:00","id":"446"}}}-->

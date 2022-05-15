@@ -1,0 +1,11 @@
+
+# [AM i PW] Obóz Studencki - Wetlina
+
+<time>9-16 września 2006</time>
+
+9-16 września 2006 | Zapraszamy Studentów Akademii Medycznej i Politechniki Warszawskiej na obóz "Bieszczady 2006". Gwarantujemy świetną zabawę i dużo wędrówek po naszych pięknych górach.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 9-16 września 2006 | Zapraszamy Studentów Akademii Medycznej i Politechniki Warszawskiej na obóz "Bieszczady 2006". Gwarantujemy świetną zabawę i dużo wędrówek po naszych pięknych górach.
+-->
+
+<!--{{json:{"created_date":"2006-06-10 10:57:12","publish_down":"0000-00-00 00:00:00","id":"365"}}}-->

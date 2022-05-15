@@ -1,0 +1,11 @@
+
+# [UW] Spotkania _wtorkowe_ na MIMUW
+
+<time>wtorki, godz. 18:00</time>
+
+wtorki, godz. 18:00 | UWAGA! Zmiana terminu w semestrze letnim! [br]każdy [b]wtorek, godzina 18:00, sala 3190, MIMUW (ul. Banacha 2, wejście od Pasteura)[/b]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): wtorki, godz. 18:00 | UWAGA! Zmiana terminu w semestrze letnim! [br]każdy [b]wtorek, godzina 18:00, sala 3190, MIMUW (ul. Banacha 2, wejście od Pasteura)[/b]
+-->
+
+<!--{{json:{"created_date":"2005-10-24 10:52:35","publish_down":"0000-00-00 00:00:00","id":"263"}}}-->

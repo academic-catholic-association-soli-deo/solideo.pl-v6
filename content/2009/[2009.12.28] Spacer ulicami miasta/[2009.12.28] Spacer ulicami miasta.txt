@@ -1,0 +1,19 @@
+
+# Spacer ulicami miasta
+
+<time>29 grudnia godz. 18.00</time>
+
+29 grudnia godz. 18.00 | 
+Zapraszam Was na spacer przystrojonymi świątecznie ulicami Warszawy. Spotykamy się **29.12.2009 (wtorek)** o godz. **18:00 **pod **Arsenałem **przy wyjściu ze stacji metra Ratusz. Ulicą Długą udamy się na Nowe Miasto. Po zwiedzeniu rynku przejdziemy z części nowomiejskiej na staromiejską, a następnie w kierunku Nowego Światu i Placu Trzech Krzyży.
+
+Oczywiście można się dołączyć w dowolnym momencie trwania spaceru.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 grudnia godz. 18.00 | 
+Zapraszam Was na spacer przystrojonymi świątecznie ulicami Warszawy. Spotykamy się **29.12.2009 (wtorek)** o godz. **18:00 **pod **Arsenałem **przy wyjściu ze stacji metra Ratusz. Ulicą Długą udamy się na Nowe Miasto. Po zwiedzeniu rynku przejdziemy z części nowomiejskiej na staromiejską, a następnie w kierunku Nowego Światu i Placu Trzech Krzyży.
+
+
+
+Oczywiście można się dołączyć w dowolnym momencie trwania spaceru.         
+-->
+
+<!--{{json:{"created_date":"2009-12-28 19:14:34","publish_down":"0000-00-00 00:00:00","id":"835"}}}-->

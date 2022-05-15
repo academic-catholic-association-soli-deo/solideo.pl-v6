@@ -1,0 +1,28 @@
+![images/stories/zyczenia wakacje.jpg](images/stories/zyczenia wakacje.jpg)
+
+# Wakacje
+
+<time>2012-07-02 14:03:55</time>
+
+
+ 
+
+
+ 
+ 
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 
+ 
+
+
+
+
+ 
+
+
+ 
+
+-->
+
+<!--{{json:{"created_date":"2012-07-02 14:03:55","publish_down":"0000-00-00 00:00:00","id":"1119"}}}-->

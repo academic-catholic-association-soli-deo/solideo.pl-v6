@@ -1,0 +1,23 @@
+![soli_deo_01.jpg](soli_deo_01.jpg)
+
+# Witamy na nowej stronie!
+
+<time>2013-10-07 21:37:37</time>
+
+
+
+Witamy Was na naszej stronie! Jak Wam się podoba jej nowa odsłona?:-)
+
+
+Mamy wiele nowych elementów jak np. **kalendarz wydarzeń** (po lewej) który w najbliższym czasie zapełni się wydarzeniami. W multimediach czekają na Was **nowe nagrania!**
+
+
+Zachęcamy również do odkrycia i innych miejsc - mamy dla Was wiele nowych informacji.
+
+Już wkrótce pojawi się też galeria, a w niej duuużo zdjęć:-)
+
+Życzymy miłego pobytu na naszej stronie!
+ASK Soli Deo 
+
+
+<!--{{json:{"created_date":"2013-10-07 21:37:37","publish_down":"0000-00-00 00:00:00","id":"5305"}}}-->

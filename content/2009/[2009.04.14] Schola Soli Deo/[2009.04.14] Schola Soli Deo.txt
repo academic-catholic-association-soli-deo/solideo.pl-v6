@@ -1,0 +1,41 @@
+
+# Schola Soli Deo
+
+<time>Od dziś</time>
+
+Od dziś | 
+Zapraszamy do&nbsp;scholi Soli Deo! 
+Jeżeli:
+- Potrafisz wydawać z siebie jakiekolwiek dźwięki :)
+- Lubisz muzykę i śpiew
+- Chciałbyś tworzyć piękne rzeczy
+- Masz dobre chęci nauczenia się czegoś i poznania nowych ludzi
+To powinieneś przyjść do Scholi Soli Deo!
+Nie wymagamy doświadczenia!
+Chętni niech piszą na adres schola.solideo@gmail.com
+Czekamy z niecierpliwością :)
+Sekcja Formacyjna &lt;
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): Od dziś | 
+Zapraszamy do&nbsp;scholi Soli Deo! 
+
+
+Jeżeli:
+- Potrafisz wydawać z siebie jakiekolwiek dźwięki :)
+- Lubisz muzykę i śpiew
+- Chciałbyś tworzyć piękne rzeczy
+- Masz dobre chęci nauczenia się czegoś i poznania nowych ludzi
+To powinieneś przyjść do Scholi Soli Deo!
+
+
+Nie wymagamy doświadczenia!
+Chętni niech piszą na adres schola.solideo@gmail.com
+
+
+Czekamy z niecierpliwością :)
+Sekcja Formacyjna &lt;
+
+-->
+
+<!--{{json:{"created_date":"2009-04-14 23:02:28","publish_down":"0000-00-00 00:00:00","id":"744"}}}-->

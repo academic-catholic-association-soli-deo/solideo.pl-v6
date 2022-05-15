@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Wstąp do Soli Deo - Spotkanie na SGH",
+  "startDate": "2017-10-19T19:00+2:00",
+  "endDate": "2017-10-19T21:00+2:00",
+  "location": {
+    "@type": "Place",
+    "name": "SGH, budynek G, sala 111",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "al. Niepodległości 162",
+      "addressLocality": "Warszawa",
+      "postalCode": "02-554",
+      "addressCountry": "PL"
+    }
+  },
+  "image": "_dir_/wstap-do-soli-deo-sgh.jpg",
+  "description": "W październiku zapraszamy Was na szereg spotkań informacyjnych na największych uczelniach w Warszawie. Spotkanie w Szkole Głównej Handlowej odbędzie się w **czwartek, 19 października** o godz. **19:00** w **sali 111, budynek G**.",
+  "organizer": {
+  	"@type": "Organization",
+  	"url": "https://www.solideo.pl",
+  	"name": "Akademickie Stowarzyszenie Katolickie Soli Deo",
+  	"email": "kontakt@solideo.pl",
+  	"logo": "https://solideo.pl/img/solideo-logo-833x1000.png"
+  },
+  "url": "_link_"
+}

@@ -1,0 +1,26 @@
+
+# [SGH] Open Mind
+
+<time>6-8 maja 2008 r</time>
+
+6-8 maja 2008 r | Open Mind, czyli promocja open source!
+
+Bądź&nbsp; 6-8 maja na SGH,&nbsp; wypróbuj Linuksa, zrób sobie foto z pingwinem, spróbuj Open Lemoniady, zagraj w TuxRacer i przyjdź na wykłady i case studies!
+
+Poznaj świat open source i zdobądź nagrody!
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 6-8 maja 2008 r | Open Mind, czyli promocja open source!
+
+
+
+Bądź&nbsp; 6-8 maja na SGH,&nbsp; wypróbuj Linuksa, zrób sobie foto z pingwinem, spróbuj Open Lemoniady, zagraj w TuxRacer i przyjdź na wykłady i case studies!
+
+
+
+Poznaj świat open source i zdobądź nagrody!
+
+
+-->
+
+<!--{{json:{"created_date":"2008-05-07 13:06:49","publish_down":"0000-00-00 00:00:00","id":"612"}}}-->

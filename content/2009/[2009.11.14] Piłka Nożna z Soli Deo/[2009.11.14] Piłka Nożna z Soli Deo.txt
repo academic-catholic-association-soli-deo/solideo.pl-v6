@@ -1,0 +1,21 @@
+
+# Piłka Nożna z Soli Deo
+
+<time>co tydzień</time>
+
+co tydzień | 
+Staramy się w miarę regularnie grywać w piłkę nożną. Dla osób zainteresowanych grą utworzyliśmy odpowiednią listę mailingową , gdzie umawiamy się na mecze. 
+**Chciałbyś pograć od czasu do czasu - napisz do Zbyszka: ****zbynialdo@gmail.com**
+On dopiszę Cię do tej listy.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): co tydzień | 
+
+
+Staramy się w miarę regularnie grywać w piłkę nożną. Dla osób zainteresowanych grą utworzyliśmy odpowiednią listę mailingową , gdzie umawiamy się na mecze. 
+**Chciałbyś pograć od czasu do czasu - napisz do Zbyszka: ****zbynialdo@gmail.com**
+On dopiszę Cię do tej listy.
+
+-->
+
+<!--{{json:{"created_date":"2009-11-14 11:15:50","publish_down":"0000-00-00 00:00:00","id":"811"}}}-->

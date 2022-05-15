@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Podaj login oraz haslo"
+AuthUserFile /var/www/www.solideo.pl/mp3/dyktafon_20140414/.htpasswd
+Require user nagrania

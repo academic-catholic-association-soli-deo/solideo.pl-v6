@@ -1,0 +1,11 @@
+
+# WOLONTARIAT@solideo.pl
+
+<time>dziś</time>
+
+dziś | Stworzyliśmy specjalny adres, na który możecie pisać, jeśli jesteście zainteresowani wolontariatem. Jeśli zatem nie masz konkretnego pomysłu na działalność w Soli Deo, wolontariat - to jest to coś dla Ciebie! Zapraszamy
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): dziś | Stworzyliśmy specjalny adres, na który możecie pisać, jeśli jesteście zainteresowani wolontariatem. Jeśli zatem nie masz konkretnego pomysłu na działalność w Soli Deo, wolontariat - to jest to coś dla Ciebie! Zapraszamy
+-->
+
+<!--{{json:{"created_date":"2006-03-16 22:30:26","publish_down":"0000-00-00 00:00:00","id":"317"}}}-->

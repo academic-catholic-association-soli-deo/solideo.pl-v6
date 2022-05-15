@@ -1,0 +1,11 @@
+
+# Ćwiczenia duchowe w życiu codziennym
+
+<time>od 18 listopada 2005</time>
+
+od 18 listopada 2005 | Tomasz Ortmann SJ z Ośrodka Duszpasterstwa Akademickiego "DĄB" O.O. Jezuitów w Warszawie zaprasza na "Ćwiczenia duchowe" dla studentów.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): od 18 listopada 2005 | Tomasz Ortmann SJ z Ośrodka Duszpasterstwa Akademickiego "DĄB" O.O. Jezuitów w Warszawie zaprasza na "Ćwiczenia duchowe" dla studentów.
+-->
+
+<!--{{json:{"created_date":"2005-10-27 12:21:34","publish_down":"0000-00-00 00:00:00","id":"266"}}}-->

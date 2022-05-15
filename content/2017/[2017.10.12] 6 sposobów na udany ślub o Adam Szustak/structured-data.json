@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "6 sposobów na udany ślub — o. Adam Szustak",
+  "startDate": "2017-10-12T19:00+2:00",
+  "endDate": "2017-10-12T21:00+2:00",
+  "location": {
+    "@type": "Place",
+    "name": "Kampus SGGW",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "ul. Nowoursynowska 166",
+      "addressLocality": "Warszawa",
+      "postalCode": "02-786",
+      "addressCountry": "PL"
+    }
+  },
+  "image": "_dir_/6-sposobow-na-udany-slub.png",
+  "description": "Adam Szustak OP - znany i ceniony dominikanin, rekolekcjonista, wędrowny kaznodzieja. Osoba, która niespecjalnie potrzebuje naszego przedstawiania :) Szczerymi słowami i poczuciem humoru zjednał sobie tysiące wiernych fanów. Jego słowa - pełne Ducha Świętego - z wyczekiwaniem słuchane są nie tylko w Polsce, ale również za granicą. Ojciec Szustak poprowadzi naszą pierwszą konferencję, która należy równocześnie do znanego nam wszystkim cyklu Pachnideł. Cieszymy się, że będziemy świadkami powstawania 5 serii! Ty też? Do zobaczenia!",
+  "performer": {
+    "@type": "Person",
+    "name": "Adam Szustak OP",
+    "image": "_dir_/adam-szustak.jpg",
+    "sameAs": "http://www.langustanapalmie.pl/o-mnie"
+  },
+  "organizer": {
+  	"@type": "Organization",
+  	"url": "https://www.solideo.pl",
+  	"name": "Akademickie Stowarzyszenie Katolickie Soli Deo",
+  	"email": "kontakt@solideo.pl",
+  	"logo": "https://solideo.pl/img/solideo-logo-833x1000.png"
+  },
+  "url": "_link_"
+}

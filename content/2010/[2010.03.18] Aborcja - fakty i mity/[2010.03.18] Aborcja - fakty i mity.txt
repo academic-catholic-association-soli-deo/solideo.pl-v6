@@ -1,0 +1,23 @@
+
+# Aborcja - fakty i mity
+
+<time>29 marca, 18.30</time>
+
+29 marca, 18.30 | 
+Zapraszamy na wielką konferencję poświęconą tematowi aborcji.
+
+**Termin i miejsce:** 29.03.10 r., godz. 18:30, Aula w Starym BUW, Kampus Centralny UW.
+
+W ramach konferencji odbędzie się pięć wykładów tematycznych, które poprowadzą wybitni specjaliści z różnych dziedzin nauki.
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 marca, 18.30 | 
+Zapraszamy na wielką konferencję poświęconą tematowi aborcji.
+
+**Termin i miejsce:** 29.03.10 r., godz. 18:30, Aula w Starym BUW, Kampus Centralny UW.
+
+W ramach konferencji odbędzie się pięć wykładów tematycznych, które poprowadzą wybitni specjaliści z różnych dziedzin nauki.
+                  
+-->
+
+<!--{{json:{"created_date":"2010-03-18 14:16:57","publish_down":"0000-00-00 00:00:00","id":"901"}}}-->

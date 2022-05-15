@@ -1,0 +1,11 @@
+
+# Impreza Soli Deo
+
+<time>24 czerwiec</time>
+
+24 czerwiec | Zapraszamy posesyjną imprezę taneczną Soli Deo. Jak zwykle odbędzie się ona w [b]salce przy kościele Św. Katarzyny na Służewiu (ul. Fosa 17).[/b][br][br][u][b]Start: godz. 20.00; wejściówka - 8 zł.[/b][/u][br]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 24 czerwiec | Zapraszamy posesyjną imprezę taneczną Soli Deo. Jak zwykle odbędzie się ona w [b]salce przy kościele Św. Katarzyny na Służewiu (ul. Fosa 17).[/b][br][br][u][b]Start: godz. 20.00; wejściówka - 8 zł.[/b][/u][br]
+-->
+
+<!--{{json:{"created_date":"2006-05-16 13:07:47","publish_down":"0000-00-00 00:00:00","id":"353"}}}-->

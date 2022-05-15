@@ -1,0 +1,22 @@
+![Solideo i Pan Żubr](solideo-zubr.jpg)
+# Kontakt z administratorem strony ASK Soli Deo
+<br />
+
+W sprawach treści proszę pisać na: &nbsp;&nbsp; ***gabinet@solideo.pl***
+
+W sprawach technicznych proszę pisać na: &nbsp;&nbsp; ***tech.it@solideo.pl***
+
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300|Lato&amp;subset=latin-ext" rel="stylesheet">
+<script type="text/javascript" src="/Strona/Kontakt/Strona/watch.js"></script>
+<style>
+    #zegar{
+    	width: 50%;
+    	font-family: 'Josefin Sans', sans-serif;
+    	font-size: 60px;
+    	margin-left: 38%;
+    	margin-right: auto;
+    	text-align: left;
+    }
+</style>
+<div id="zegar"></div>

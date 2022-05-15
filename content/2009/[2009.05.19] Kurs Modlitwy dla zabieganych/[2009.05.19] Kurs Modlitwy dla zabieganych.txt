@@ -1,0 +1,19 @@
+
+# Kurs Modlitwy dla zabieganych
+
+<time>30 maja, godz 9-14</time>
+
+30 maja, godz 9-14 | Większość z nas ma trudności ze znalezieniem czasu i chęci na modlitwę. Szkoła, praca, 
+sąsiedzi, przyjaciele, rozrywka i hobby. Wydaje się, że modlitwy nie uda się już 
+umieścić w napiętym programie dnia.
+
+Zapraszamy na warsztat, który pomoże Ci nauczyć się modlić w zabieganiu.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 30 maja, godz 9-14 | Większość z nas ma trudności ze znalezieniem czasu i chęci na modlitwę. Szkoła, praca, 
+sąsiedzi, przyjaciele, rozrywka i hobby. Wydaje się, że modlitwy nie uda się już 
+umieścić w napiętym programie dnia.
+
+Zapraszamy na warsztat, który pomoże Ci nauczyć się modlić w zabieganiu.
+-->
+
+<!--{{json:{"created_date":"2009-05-19 16:56:12","publish_down":"0000-00-00 00:00:00","id":"760"}}}-->

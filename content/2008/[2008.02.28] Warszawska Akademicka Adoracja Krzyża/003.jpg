@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="en" class="ieAll ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="ieAll ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ieAll ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Build a free website with our easy to use, free website builder.  Find web hosting, domain registration, email and more at Tripod.com." />
+<meta name="keywords" content="free website, web hosting, website hosting, website templates, tripod" />
+<title>Build a Free Website with Web Hosting | Tripod</title>
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale = 1.0" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://lygo.com/ly/tpSite/images/57x57.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="http://lygo.com/ly/tpSite/images/72x72.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.pd.tripod.lycos.com/lygo/ly/tpSite/images/114x114.png"/>
+<link rel="icon" type="image/png" href="http://lygo.com/ly/tpSite/images/favicon.ico" />
+<link href="http://lygo.com/ly/tpSite/css/tpStyle.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 8]>
+<script src="http://ly.lygo.com/ly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<style>
+.baseHeader{
+	  background-color:#f6f2e8;
+	  background-image:-webkit-gradient(linear, left top, left bottom, from(#f6f2e8), to(#bad79f)); 
+	  background-image:-webkit-linear-gradient(top, #f6f2e8, #bad79f);
+	  background-image:-moz-linear-gradient(top, #f6f2e8, #bad79f); 
+	  background-image:-o-linear-gradient(top, #f6f2e8, #bad79f); 
+	  background-image:linear-gradient(to bottom, #f6f2e8, #bad79f); 
+	   overflow:hidden; position:relative}
+	.splash{margin:0 auto; padding:60px 15px; width:900px}
+	.shutdown .baseFooter{bottom:0; left:0; position:fixed; width:100%}
+	.bookEnd{text-align:center}
+	.bookEnd li{display:inline-block; *display:inline; float:none; *zoom:1}
+	#divider, .mDivider {
+    border-bottom: 2px solid #BCB49A;
+    border-top: 2px solid #FFFFFF;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);}
+
+.baseFooter{background:#5E838E; box-shadow:inset 0 0 22px #555; color:#ddd}
+	.baseFooter a{color:#ddd; text-decoration:underline}
+		.baseFooter a:hover{color:#fff; text-decoration:none}
+
+	.footerList{padding-top:15px}
+	.footerList li{display:inline-block; *display:inline; font-size:.8em; margin:0 20px 5px 0; *zoom:1}
+	
+.bookEnd{background:#3c5561; font-size:12px; line-height:23px; overflow:hidden; padding:7px 15px; width:auto}
+	.bookEnd li{line-height:24px; list-style:none; margin:0 10px}
+		.bookEnd li:first-child{margin:0}
+	
+</style>
+</head>
+
+<body class="shutdown emphBlock" style="border:0">
+	<header class="baseHeader">
+        <section class="splash row">
+            <div class="d40">
+                <img src="http://lygo.com/ly/tpSite/images/tripodGlyph.png" alt="Tripod" style="display:block; max-width:80%" />
+          
+            </div>
+            <div class="d60"><br />
+            <h1 class="mega">Website not found</h1>
+            <p class="delta">
+                The Tripod Europe member site that you are trying to reach is no longer at this address and forwarding information has not been provided.
+            </p>
+            <p class="delta" style="font-weight:normal">
+                If you would like to become a Tripod Publisher, <br />please visit us at 
+                <a href="http://www.tripod.lycos.com/" title="build a website today at Tripod.com">www.tripod.com</a>.
+            </p>
+            </div>
+        </section>
+    </header>
+    <div id="divider"></div>
+    <section>
+    	
+    	<!-- place ads here -->
+    </section>
+	<footer class="baseFooter">
+    	<section class="bookEnd">
+            <ul class="overflow bookEndCenter container">
+                <li>&copy; 2013 <a href="http://www.lycos.com/" title="Lycos Inc.">Lycos Inc</a>. All Rights Reserved.</li>
+                <li><a href="http://info.lycos.com/about/company-overview" title="About Lycos">About</a></li>
+                <li><a href="http://advertising.lycos.com/" title="Advertise with Lycos">Advertise</a></li>
+                <li><a href="http://info.lycos.com/resources/terms-of-service/subscription-agreement" title="Subscription Agreement" rel="nofollow">Subscription Agreement</a></li>
+                <li><a href="http://info.lycos.com/resources/terms-of-service" title="Lycos Network Legal" rel="nofollow">Terms of Service</a></li>
+                <li><a href="http://info.lycos.com/resources/privacy-policy" title="Lycos Privacy Policy" rel="nofollow">Privacy</a></li>
+                <li><a href="http://promo-manager.server-secure.com/ch/9078/y9yh45/368274/3b31d14sjw.html" title="Registrant Rights and Responsibilities Under the 2009 Registrar Accreditation Agreement" rel="nofollow">ICANN Registrant Rights</a></li>
+            </ul>
+         </section>
+    </footer>
+     <!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21402695-24']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analytics -->
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+
+# Pomóż nam w kolportażu ulotek PNiZ na Mszach jutro
+
+<time>7 marca</time>
+
+7 marca | Wybierasz się na Mszę Akademicką jutro - 7 marca ? 
+Pomóż nam w kolportażu ulotek projektu Poruszyć Niebo i Ziemię! 
+Nie zajmie Ci to praktycznie żadnego dodatkowego czasu, a nam pozwoli dotrzeć z informacją do większej grupy studentów.
+Możesz pomóc - napisz do Zbyszka: zbynialdo@gmail.com
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 7 marca | Wybierasz się na Mszę Akademicką jutro - 7 marca ? 
+Pomóż nam w kolportażu ulotek projektu Poruszyć Niebo i Ziemię! 
+Nie zajmie Ci to praktycznie żadnego dodatkowego czasu, a nam pozwoli dotrzeć z informacją do większej grupy studentów.
+Możesz pomóc - napisz do Zbyszka: zbynialdo@gmail.com
+         
+-->
+
+<!--{{json:{"created_date":"2010-03-06 11:10:51","publish_down":"0000-00-00 00:00:00","id":"891"}}}-->

@@ -1,0 +1,11 @@
+
+# Modlitwy ze śpiewami Taize (ZMIANA)
+
+<time>CZWARTKI, 20:00</time>
+
+CZWARTKI, 20:00 | gorąco zachęcamy do uczestnictwa w spotkaniu modlitewnym ze śpiewami Taize, które będzie się odbywało teraz w CZWARTKI, w parafii św. Szczepana przy ulicy Narbutta 21 o godzinie 20:00. Jeżeli nie wiecie gdzie znajduje się ten kościółek, to tu jest link do strony z mapką [link%n%n%http://www.jezuici.pl/szczepan/grafiki/mapka2.gif]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): CZWARTKI, 20:00 | gorąco zachęcamy do uczestnictwa w spotkaniu modlitewnym ze śpiewami Taize, które będzie się odbywało teraz w CZWARTKI, w parafii św. Szczepana przy ulicy Narbutta 21 o godzinie 20:00. Jeżeli nie wiecie gdzie znajduje się ten kościółek, to tu jest link do strony z mapką [link%n%n%http://www.jezuici.pl/szczepan/grafiki/mapka2.gif]
+-->
+
+<!--{{json:{"created_date":"2005-03-10 21:47:07","publish_down":"0000-00-00 00:00:00","id":"218"}}}-->

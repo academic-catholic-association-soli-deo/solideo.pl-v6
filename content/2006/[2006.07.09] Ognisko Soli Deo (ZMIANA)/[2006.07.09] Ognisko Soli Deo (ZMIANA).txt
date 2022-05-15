@@ -1,0 +1,11 @@
+
+# Ognisko Soli Deo [ZMIANA]
+
+<time>10 lipca 2006</time>
+
+10 lipca 2006 | Nie można wchodzić do lasu ze względu na słońce, więc zbieramy się o 18.30 na peronie [b]Metro Pole Mokotowskie[/b]. Kto więc może, niech przyniesie [u]sprzęt sportowy[/u] i inne przedmioty integrujące! Zapraszamy!!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 10 lipca 2006 | Nie można wchodzić do lasu ze względu na słońce, więc zbieramy się o 18.30 na peronie [b]Metro Pole Mokotowskie[/b]. Kto więc może, niech przyniesie [u]sprzęt sportowy[/u] i inne przedmioty integrujące! Zapraszamy!!
+-->
+
+<!--{{json:{"created_date":"2006-07-09 10:13:37","publish_down":"0000-00-00 00:00:00","id":"352"}}}-->

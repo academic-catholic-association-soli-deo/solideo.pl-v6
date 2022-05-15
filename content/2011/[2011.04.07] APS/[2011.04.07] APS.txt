@@ -1,0 +1,85 @@
+
+# APS
+
+<time>2011-04-07 20:29:00</time>
+
+
+*ul. Szczęśliwicka 40, 02-253 Warszawa*
+
+
+ 
+
+
+PREZES
+
+
+Malwina Kaczyńska
+
+
+tel.
+
+
+flowerbird@interia.pl
+
+
+ 
+
+
+SKARBNIK
+
+
+Marysia Dąbrowska
+
+
+tel.
+
+
+marysienkadabrowska@gmail.com
+
+
+ 
+
+
+SEKRETARZ
+
+
+Angelika Bajkiewicz
+
+
+tel.
+
+
+angel.baj@gmail.com
+
+
+ 
+
+
+PR
+
+
+Magdalena Skrycka
+
+
+tel.
+
+
+magda.skrycka@gmail.com
+
+
+ 
+
+
+HR
+
+
+Anna Całka
+
+
+tel.
+
+
+anna.calka@onet.eu
+
+
+<!--{{json:{"created_date":"2011-04-07 20:29:00","publish_down":"0000-00-00 00:00:00","id":"124"}}}-->

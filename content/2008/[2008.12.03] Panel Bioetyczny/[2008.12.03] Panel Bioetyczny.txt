@@ -1,0 +1,43 @@
+
+# Panel Bioetyczny
+
+<time>4 grudnia</time>
+
+4 grudnia | ASK Soli Deo&nbsp;i Wspólnota Emmanuel zapraszają na Panel Bioetyczny
+
+Mówcy:
+
+dr Anna Gręziak
+Prezes Katolickiego Stowarzyszenia Lekarzy Polskich
+
+o. dr. Artur Filipowicz SJ
+Papieski Wydział Teologiczny w Warszawie
+Instytut Politologii UKSW
+
+dr Kazimierz Szałata
+Wydział Filozofii UKSW
+Kierownik Konwersatorium "Medycyna na miarę człowieka"
+
+Panel odbędzie się 4 grudnia w godz. 19.00 - 21 w auli im. prof.
+Olszewskiego, Wydział Farmacji WUM, Banacha 1.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 4 grudnia | ASK Soli Deo&nbsp;i Wspólnota Emmanuel zapraszają na Panel Bioetyczny
+
+Mówcy:
+
+dr Anna Gręziak
+Prezes Katolickiego Stowarzyszenia Lekarzy Polskich
+
+o. dr. Artur Filipowicz SJ
+Papieski Wydział Teologiczny w Warszawie
+Instytut Politologii UKSW
+
+dr Kazimierz Szałata
+Wydział Filozofii UKSW
+Kierownik Konwersatorium "Medycyna na miarę człowieka"
+
+Panel odbędzie się 4 grudnia w godz. 19.00 - 21 w auli im. prof.
+Olszewskiego, Wydział Farmacji WUM, Banacha 1.
+-->
+
+<!--{{json:{"created_date":"2008-12-03 11:53:32","publish_down":"0000-00-00 00:00:00","id":"688"}}}-->

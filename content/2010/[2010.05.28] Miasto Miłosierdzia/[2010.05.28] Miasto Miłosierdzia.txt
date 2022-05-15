@@ -1,0 +1,21 @@
+
+# Miasto Miłosierdzia
+
+<time>30 maja od godz. 10</time>
+
+30 maja od godz. 10 | 
+W najbliższą niedzielę (30 maja), na Krakowskim Przedmieściu odbędzie się Miasto Miłosierdzia - Festiwal Dobroczynności, organizowany przez Centrum Myśli Jana Pawła II. 
+Zależy nam, by jak najwięcej osób przyszło i dobrze się bawiąc, zapoznało się z działalnością ponad 80 organizacji pożytku publicznego oraz ideą wolontariatu.
+
+Wszystkie informacje o imprezie oraz zaproszenie w wersji dźwiękowej znajdują się w "więcej".
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 30 maja od godz. 10 | 
+W najbliższą niedzielę (30 maja), na Krakowskim Przedmieściu odbędzie się Miasto Miłosierdzia - Festiwal Dobroczynności, organizowany przez Centrum Myśli Jana Pawła II. 
+Zależy nam, by jak najwięcej osób przyszło i dobrze się bawiąc, zapoznało się z działalnością ponad 80 organizacji pożytku publicznego oraz ideą wolontariatu.
+
+Wszystkie informacje o imprezie oraz zaproszenie w wersji dźwiękowej znajdują się w "więcej".
+                           
+-->
+
+<!--{{json:{"created_date":"2010-05-28 16:56:11","publish_down":"0000-00-00 00:00:00","id":"936"}}}-->

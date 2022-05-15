@@ -1,0 +1,11 @@
+
+# Konferencja Soli Deo i Phoenix Institute
+
+<time>5-7 maja 2006</time>
+
+5-7 maja 2006 | [b]"Know Yourself: Europe and Europeans in the Quest for Identity"[/b]. [u]Międzynarodowa Konferencja we Wrocławiu[/u] będzie poświęcona problemom tożsamości w szybko zmieniającej się Europie. W programie znajdą się wykłady, dyskusja panelowa i warsztaty tematyczne oraz krótki program kulturalno-integracyjny.[br][i]Nasze zaproszenie przyjęli m.in. prof. Wojciech Roszkowski (SGH), prof. Frans Alting von Geusau (Tilburg), prof. Paul Gabriner (Amsterdam).[/i][br]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 5-7 maja 2006 | [b]"Know Yourself: Europe and Europeans in the Quest for Identity"[/b]. [u]Międzynarodowa Konferencja we Wrocławiu[/u] będzie poświęcona problemom tożsamości w szybko zmieniającej się Europie. W programie znajdą się wykłady, dyskusja panelowa i warsztaty tematyczne oraz krótki program kulturalno-integracyjny.[br][i]Nasze zaproszenie przyjęli m.in. prof. Wojciech Roszkowski (SGH), prof. Frans Alting von Geusau (Tilburg), prof. Paul Gabriner (Amsterdam).[/i][br]
+-->
+
+<!--{{json:{"created_date":"2006-04-06 15:10:02","publish_down":"0000-00-00 00:00:00","id":"337"}}}-->

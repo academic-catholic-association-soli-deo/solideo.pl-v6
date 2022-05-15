@@ -1,0 +1,96 @@
+![solipasek](img/wide-logo.jpg)
+# Zarząd Główny - kontakt
+
+<div>
+    <div class="rect">
+        <b>Korespondencja:</b></br>
+        Akademickie Stowarzyszenie Katolickie Soli Deo</br>
+        Gmach Główny PW</br>
+        Plac Politechniki 1, pokój 136</br>
+        00-661 Warszawa</br></br>	
+    </div>
+    <div class="rect">
+        <b>KRS/faktury:</b></br>
+        Akademickie Stowarzyszenie Katolickie Soli Deo</br>
+        Plac Politechniki 1</br>
+        00-661 Warszawa</br>
+        NIP: 951-20-69-241</br></br>
+    </div>
+    <div style="clear: both;"></div>
+</div>
+
+
+<style>
+    .rect {
+        margin: 30px;
+        /*float: left;*/
+        display: inline-grid;
+    }
+    
+    /* klasy nie dzialaja jakby co &nbsp; */
+    #prezes {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        height: 30%;
+    }
+    #hr {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        height: 30%;
+    }
+    #pr {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        height: 30%;
+    }
+    #sekretarz {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;;
+        width: 30%;
+        height: 30%;
+    }
+    #skarbnik {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        height: 30%;
+    }
+    h3.no_top {
+        margin-top: 0;
+    }
+</style>
+
+# Członkowie Zarządu
+</br>
+<h3 class="no_top" >Prezes</h3>
+Mateusz Półgrabia (SGH)</br>
+*prezes@solideo.pl*</br></br></br>
+
+
+<h3 class="no_top" >PR</h3>
+Łukasz Biegański (SGGW)</br>
+*pr@solideo.pl*</br></br></br>
+
+
+<h3 class="no_top" >HR</h3>
+Alicja Mucha (UW)</br>
+*hr@solideo.pl*</br></br></br>
+
+
+<h3 class="no_top" >Sekretarz</h3>
+Marta Pieczko (SGH)</br>
+*kontakt@solideo.pl*</br></br></br>
+
+
+<h3 class="no_top" >Skarbnik</h3>
+Grażyna Bryk (SGH)</br>
+*skarbnik@solideo.pl*</br></br>
+			
