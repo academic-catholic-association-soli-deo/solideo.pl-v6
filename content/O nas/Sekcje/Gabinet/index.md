@@ -1,14 +1,31 @@
 ---
 title: Gabinet
+sitemap-priority: 0.7
+sitemap-changefreq: yearly
 ---
-Jest to o tyle specyficzna Sekcja, że całą swoją działalność opiera na Zespołach tu działających, a skoordynowanych w jedną Sekcję o nazwie Gabinet. Główne zadania Gabinetu dotyczą spraw organizacyjnych, administracyjnych i technicznych. 
+
+Jest to o tyle specyficzna Sekcja, że całą swoją działalność opiera na Zespołach
+tu działających, a skoordynowanych w jedną Sekcję o nazwie Gabinet. Główne
+zadania Gabinetu dotyczą spraw organizacyjnych, administracyjnych i
+technicznych.
 
 Zespoły, na które składa się Gabinet:
-- **Zespół Statystyki i Analiz** – zajmuje się on tworzeniem ankiet dla uczestników naszych wydarzeń i projektów oraz ich analizą w celu ulepszania naszych działań.
-- **Zespół Techniczny-IT** – zajmuje się wszelkimi kwestiami informatycznymi takimi jak nasze serwery, strona internetowa, sprzęt elektroniczny itp., przykładowo zajmujemy się montowaniem nagłośnienia, oraz rozwijamy własny [open-source system oświetlenia dyskotekowego](https://github.com/Jblew/marinesmud-dj).
-- **Zespół Fundraisingu** – odpowiada za pozyskiwanie funduszy na potrzeby działalności naszego Stowarzyszenia. 
-- **Sekretariat** – zajmuje się sprawnym obiegiem informacji i porządkowaniem korespondencji.
-- **Centrum Wydarzeń i Projektów **– w jego skład poza zainteresowanymi wchodzą PRzy Kół Terenowych, a na jego czele stoi członek Zarządu – PR Główny. Tutaj działa również Rzecznik Prasowy Stowarzyszenia. CeWiP zajmuje się promocją wydarzeń, kalendarzem wydarzeń oraz standardami organizowania wydarzeń i projektów w Soli Deo.
 
+- **Zespół Statystyki i Analiz** – zajmuje się on tworzeniem ankiet dla
+  uczestników naszych wydarzeń i projektów oraz ich analizą w celu ulepszania
+  naszych działań.
+- **Zespół Techniczny-IT** – zajmuje się wszelkimi kwestiami informatycznymi
+  takimi jak nasze serwery, strona internetowa, sprzęt elektroniczny itp.,
+  przykładowo zajmujemy się montowaniem nagłośnienia, oraz rozwijamy własny
+  [open-source system oświetlenia dyskotekowego](https://github.com/Jblew/marinesmud-dj).
+- **Zespół Fundraisingu** – odpowiada za pozyskiwanie funduszy na potrzeby
+  działalności naszego Stowarzyszenia.
+- **Sekretariat** – zajmuje się sprawnym obiegiem informacji i porządkowaniem
+  korespondencji.
+- **Centrum Wydarzeń i Projektów **– w jego skład poza zainteresowanymi wchodzą
+  PRzy Kół Terenowych, a na jego czele stoi członek Zarządu – PR Główny. Tutaj
+  działa również Rzecznik Prasowy Stowarzyszenia. CeWiP zajmuje się promocją
+  wydarzeń, kalendarzem wydarzeń oraz standardami organizowania wydarzeń i
+  projektów w Soli Deo.
 
 Zobacz [Ogólne informacje o sekcjach](/o-nas/sekcje).

@@ -3,40 +3,62 @@ title: 30-lecie ASK Soli Deo
 coverPhoto:
   alt: już 30 lat!
   path: 30-lecie_baner.png
+sitemap-priority: 0.7
+sitemap-changefreq: monthly
 ---
-28 lutego 2019 mija dokładnie 30 lat od powstania Akademickiego Stowarzyszenia Katolickiego Soli Deo. 
 
-Jubileusz ten świętować będziemy na różne sposoby przez cały rok, a kulminacyjnym momentem jego obchodów będzie uroczysta Gala połączona z Balem, która odbędzie się **2 marca 2019 roku** w Auli Głównej Politechniki Warszawskiej.
+28 lutego 2019 mija dokładnie 30 lat od powstania Akademickiego Stowarzyszenia
+Katolickiego Soli Deo.
 
-Rozpoczęcie o **godz. 19:00** (między zakończeniem Mszy Świętej a rozpoczęciem jest czas na dojazd na Politechnikę oraz rejestrację).
+Jubileusz ten świętować będziemy na różne sposoby przez cały rok, a
+kulminacyjnym momentem jego obchodów będzie uroczysta Gala połączona z Balem,
+która odbędzie się **2 marca 2019 roku** w Auli Głównej Politechniki
+Warszawskiej.
 
-Gala będzie składała się z części oficjalnej, artystycznej oraz całonocnego balu wraz z kateringiem.
+Rozpoczęcie o **godz. 19:00** (między zakończeniem Mszy Świętej a rozpoczęciem
+jest czas na dojazd na Politechnikę oraz rejestrację).
 
-W ramach kateringu, do zakończenia Balu, serwowane będą w formie tzw. bufetu szwedzkiego: kawa, herbata, napoje zimne, drobne słodkości do kawy oraz dania obiadowe. O północy zostanie podany tort jubileuszowy.
-Zaznaczamy, że pomimo bufetu szwedzkiego, Gala i Bal przyjmą formę zasiadaną (10-osobowe stoliki).
+Gala będzie składała się z części oficjalnej, artystycznej oraz całonocnego balu
+wraz z kateringiem.
 
-Muzyka podczas Balu będzie puszczana przez DJa, a przeważać będą taneczne rytmy lat 80', 90' oraz ostatnich kilku lat.  
+W ramach kateringu, do zakończenia Balu, serwowane będą w formie tzw. bufetu
+szwedzkiego: kawa, herbata, napoje zimne, drobne słodkości do kawy oraz dania
+obiadowe. O północy zostanie podany tort jubileuszowy. Zaznaczamy, że pomimo
+bufetu szwedzkiego, Gala i Bal przyjmą formę zasiadaną (10-osobowe stoliki).
 
-Podczas wszystkich części uroczystości obowiązuje strój wieczorowy. 
+Muzyka podczas Balu będzie puszczana przez DJa, a przeważać będą taneczne rytmy
+lat 80', 90' oraz ostatnich kilku lat.
 
-Galę poprzedzać będzie uroczysta **Msza Święta o godz. 17:00** w Archikatedrze Warszawskiej, sprawowana przez Metropolitę Warszawskiego Księdza Kardynała Kazimierza Nycza w koncelebrze z Jego Ekscelencją Biskupem Markiem Solarczykiem oraz Księdzem Prałatem Józefem R. Majem, w intencji naszego Stowarzyszenia.
+Podczas wszystkich części uroczystości obowiązuje strój wieczorowy.
 
-Wspomniana uroczystość to świetna okazja, żeby zintegrować pokolenia osób, które ukształtowało ASK Soli Deo. W Gali 30-lecia udział wezmą przedstawiciele władz publicznych, zaproszeni goście i oczywiście Członkowie oraz Absolwenci Stowarzyszenia.
+Galę poprzedzać będzie uroczysta **Msza Święta o godz. 17:00** w Archikatedrze
+Warszawskiej, sprawowana przez Metropolitę Warszawskiego Księdza Kardynała
+Kazimierza Nycza w koncelebrze z Jego Ekscelencją Biskupem Markiem Solarczykiem
+oraz Księdzem Prałatem Józefem R. Majem, w intencji naszego Stowarzyszenia.
 
-Podczas uroczystości chcemy pokazać Absolwentom i zaproszonym gościom, że wciąż działamy, że duch Soli Deo jest w nas żywy, a także podzielić się doświadczeniami i nabrać siły na kolejne dekady działalności.
+Wspomniana uroczystość to świetna okazja, żeby zintegrować pokolenia osób, które
+ukształtowało ASK Soli Deo. W Gali 30-lecia udział wezmą przedstawiciele władz
+publicznych, zaproszeni goście i oczywiście Członkowie oraz Absolwenci
+Stowarzyszenia.
 
+Podczas uroczystości chcemy pokazać Absolwentom i zaproszonym gościom, że wciąż
+działamy, że duch Soli Deo jest w nas żywy, a także podzielić się
+doświadczeniami i nabrać siły na kolejne dekady działalności.
 
 ([link do wydarzenia na facebook'u](https://www.facebook.com/events/400957007144370/)).
 
 🐝🐝🐝
 
-Kontakt w sprawie uroczystych obchodów 30-lecia ASK Soli Deo jest możliwy pod adresem e-mail: kontakt@solideo.pl - prosimy wpisywać w tytule wiadomości dopisek “30-LECIE” 
+Kontakt w sprawie uroczystych obchodów 30-lecia ASK Soli Deo jest możliwy pod
+adresem e-mail: kontakt@solideo.pl - prosimy wpisywać w tytule wiadomości
+dopisek “30-LECIE”
 
 🐝🐝🐝
 
-Zachęcamy również do śledzenia naszego [fanpage'a](https://www.facebook.com/SoliDeo1989/). </br>
-Jeżeli zaś chcecie poznać nas od mniej oficjalnej strony zapraszamy na naszego Instagrama: @ASKSoliDeo
-
+Zachęcamy również do śledzenia naszego
+[fanpage'a](https://www.facebook.com/SoliDeo1989/). </br> Jeżeli zaś chcecie
+poznać nas od mniej oficjalnej strony zapraszamy na naszego Instagrama:
+@ASKSoliDeo
 
 **Patronat honorowy:**
 
@@ -46,6 +68,7 @@ Jeżeli zaś chcecie poznać nas od mniej oficjalnej strony zapraszamy na naszeg
 <a href="http://www.mkidn.gov.pl/" id="mkidn" target="_blank" ><img src="/Strona/30-lecie/Patroni-i-sponsorzy/mkidn.png" class="patronH" /></a>
 
 **Patronat medialny:**
+
 <div>
     <div style="background-image: #000000 !important;">
         <img src="/Strona/30-lecie/Patroni-i-sponsorzy/SUMUS_logo.png" id="sumus" />

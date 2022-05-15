@@ -1,6 +1,9 @@
 ---
 title: Nagrania audio
+sitemap-priority: 0.7
+sitemap-changefreq: monthly
 ---
+
 <!-- poprawić i dodać obrazki wg: https://old.solideo.pl/multimedia/audio -->
 
 Przepraszamy — dział jest w przygotowaniu

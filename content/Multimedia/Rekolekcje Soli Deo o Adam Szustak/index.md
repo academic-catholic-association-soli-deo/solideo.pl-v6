@@ -1,7 +1,12 @@
 ---
 title: Rekolekcje Soli Deo w Choszczówce — o. Adam Szustak 2013
+sitemap-priority: 0.7
+sitemap-changefreq: monthly
 ---
-W dniach 8-10.03.2013 w Choszczówce odbyły się rekolekcje wielkopostne dla członków Soli Deo. Naszym rekolekcjonistą był o. Adam Szustak OP. Poniżej nagrania z dwóch konferencji, które wygłosił podczas tych dni.
+
+W dniach 8-10.03.2013 w Choszczówce odbyły się rekolekcje wielkopostne dla
+członków Soli Deo. Naszym rekolekcjonistą był o. Adam Szustak OP. Poniżej
+nagrania z dwóch konferencji, które wygłosił podczas tych dni.
 
 1. [Rekolekcje Soli Deo - 1. konferencja (Choszczówka, 09.03.2013)](/Strona/O%20nas/Multimedia/Szustak_rekolekcje_SoliDeo_2013/Szustak_1konf_Choszczowka.mp3)
 2. [Rekolekcje Soli Deo - 2. konferencja (Choszczówka, 09.03.2013)](/Strona/O%20nas/Multimedia/Szustak_rekolekcje_SoliDeo_2013/Szustak_2konf_Choszczowka.mp3)

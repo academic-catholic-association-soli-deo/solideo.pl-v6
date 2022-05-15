@@ -3,7 +3,10 @@ title: Koła terenowe - kontakt
 coverPhoto:
   alt: Rekolekcje wielkopostne na SGGW 2017
   path: rekolekcje-sggw.jpg
+sitemap-priority: 0.7
+sitemap-changefreq: monthly
 ---
+
 <br />
 ## Szkoła Główna Handlowa (SGH)
 
@@ -13,39 +16,29 @@ coverPhoto:
 - **SEKRETARZ**: Marcin Cebulski
 - **SKARBNIK**: Michał Bański
 
-
 <br />
 ## Uniwersytet Warszawski (UW)
 
-> Krakowskie Przedmieście 26/28<br />
-> Mały Dziedziniec, pokój 206<br />
-> 00-927 Warszawa
+> Krakowskie Przedmieście 26/28<br /> Mały Dziedziniec, pokój 206<br /> 00-927
+> Warszawa
 
 - **PRZEWODNICZĄCY**: Aleksandra Plucińska
-- **PR**: Patryk Kula 
+- **PR**: Patryk Kula
 - **HR**: Magdalena Konopka
 - **SEKRETARZ**: Aleksandra Plucińska
 - **SKARBNIK**: Agnieszka Wardak
 
-
-
 <br />
 ## Politechnika Warszawska (PW)
 
-> Gmach Główny PW, <br />
-> ul. Plac Politechniki 1, lok. 136, <br />
-> 00-661 Warszawa <br />
-> *tel do pokoju 136: (22) 234 50 44*<br />
+> Gmach Główny PW, <br /> ul. Plac Politechniki 1, lok. 136, <br /> 00-661
+> Warszawa <br /> _tel do pokoju 136: (22) 234 50 44_<br />
 
 - **PRZEWODNICZĄCY**: Paulina Żurawska
-- **PR**: Rafał Okuniewski 
+- **PR**: Rafał Okuniewski
 - **HR**: Maria Ziaja
 - **SEKRETARZ**: Adam Urbański
 - **SKARBNIK**: Beata Pyrzanowska
-
-
-
-
 
 <br />
 ## Warszawski Uniwersytet Medyczny (WUM)
@@ -56,27 +49,20 @@ coverPhoto:
 - **SEKRETARZ**: Arleta Gromada
 - **SKARBNIK**: Paweł Pietrow
 
-
-
 <br />
 ## Szkoła Główna Gospodarstwa Wiejskiego (SGGW)
 
 - **PRZEWODNICZĄCY**: Anna Krzyczkowska
 - **PR**: Dorota Łojewska
-- **HR**:  Marta Nogalska
+- **HR**: Marta Nogalska
 - **SEKRETARZ**: Adam Gmurkowski
 - **SKARBNIK**: Maria Kaczmarczyk
-
 
 <br />
 ## Uniwersytet Kardynała Stefana Wyszyńskiego (UKSW)
 
-> ul. Dewajtis 5, <br />
-> pokój 402a (I piętro nowego budynku), <br />
-> 01-815 Warszawa
-
-
-
+> ul. Dewajtis 5, <br /> pokój 402a (I piętro nowego budynku), <br /> 01-815
+> Warszawa
 
 <br />
 ## Uniwersytet Medyczny w Poznaniu (UMP)

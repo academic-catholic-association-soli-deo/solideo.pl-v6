@@ -3,22 +3,29 @@ title: Sekcje i zespoły Soli Deo
 coverPhoto:
   alt: Sekcje Soli Deo
   path: solideo-mozliwosci.jpg
+sitemap-priority: 0.7
+sitemap-changefreq: yearly
 ---
-Wewnętrzna działalność naszego Stowarzyszenia opiera swoją działalność na Sekcjach i Zespołach. Są to miejsca, 
-w których Członkowie Soli Deo bez względu na swoją przynależność do Kół Terenowych i równolegle do swojej 
-aktywności na swoich uczelniach mogą realizować swoje pomysły i rozwijać się w kilku dziedzinach naszej wewnętrznej działalności. 
 
-
-
-
+Wewnętrzna działalność naszego Stowarzyszenia opiera swoją działalność na
+Sekcjach i Zespołach. Są to miejsca, w których Członkowie Soli Deo bez względu
+na swoją przynależność do Kół Terenowych i równolegle do swojej aktywności na
+swoich uczelniach mogą realizować swoje pomysły i rozwijać się w kilku
+dziedzinach naszej wewnętrznej działalności.
 
 ## Czym są sekcje i zespoły?
-Sekcje to duże jednostki zajmujące się określonymi dziedzinami naszej działalności. Na czele każdej Sekcji 
-stoi Szef Sekcji. Sekcje tworzy, a Szefów Sekcji powołuje Prezes Stowarzyszenia. Od października 2017 r.
- działają w Soli Deo trzy duże Sekcje:
 
- - [Sekcja Integracyjna](/o-nas/sekcje/sekcja-integracyjna)
- - [Sekcja Formacyjna](/o-nas/sekcje/sekcja-formacyjna)
- - [Gabinet](/o-nas/sekcje/gabinet)
+Sekcje to duże jednostki zajmujące się określonymi dziedzinami naszej
+działalności. Na czele każdej Sekcji stoi Szef Sekcji. Sekcje tworzy, a Szefów
+Sekcji powołuje Prezes Stowarzyszenia. Od października 2017 r. działają w Soli
+Deo trzy duże Sekcje:
 
-Zespoły to najczęściej niewielkie jednostki działające w ramach poszczególnych Sekcji. Zajmują się one określonymi zadaniami dotyczącymi dużych dziedzin naszej działalności. Niektóre Sekcje mogą opierać się wyłącznie na funkcjonowaniu Zespołów (jak np. Gabinet), a do innych Zespoły są podłączone niezależnie poza właściwą działalnością Sekcji (np. Sekcja Integracyjna).
+- [Sekcja Integracyjna](/o-nas/sekcje/sekcja-integracyjna)
+- [Sekcja Formacyjna](/o-nas/sekcje/sekcja-formacyjna)
+- [Gabinet](/o-nas/sekcje/gabinet)
+
+Zespoły to najczęściej niewielkie jednostki działające w ramach poszczególnych
+Sekcji. Zajmują się one określonymi zadaniami dotyczącymi dużych dziedzin naszej
+działalności. Niektóre Sekcje mogą opierać się wyłącznie na funkcjonowaniu
+Zespołów (jak np. Gabinet), a do innych Zespoły są podłączone niezależnie poza
+właściwą działalnością Sekcji (np. Sekcja Integracyjna).

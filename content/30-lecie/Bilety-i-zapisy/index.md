@@ -1,6 +1,9 @@
 ---
 title: Zapisy
+sitemap-priority: 0.7
+sitemap-changefreq: monthly
 ---
+
 <style>
     .post .image-placeholder {
         padding-top: 0px;
@@ -18,10 +21,9 @@ title: Zapisy
     #biletarz:hover {
         border: 3px solid yellow;
     }
-    
+
 </style>
 <img id="biletarz" src="/Strona/30-lecie/Bilety-i-zapisy/bilety_baner.png" />
-
 
 Zapisy zostały zakończone.
 
