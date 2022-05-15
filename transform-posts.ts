@@ -12,6 +12,9 @@ for (const fPath of mdFiles) {
   console.log("---")
   console.log(fPath)
   const transformedMd = await transformBundleFile(fPath)
+  const targetFilePath = `${path.dirname(fPath)}/index.md`
+  Deno.writeTextFileSync(targetFilePath, transformedMd)
+  Deno.removeSync(fPath)
   console.log(transformedMd)
 }
 
