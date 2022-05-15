@@ -1,8 +1,0 @@
-
-# Msza św. Soli Deo
-
-<time>data wkrótce</time>
-
-data wkrótce | Gorąco zapraszamy na październikową Mszę św. Soli Deo. Najprawdopodobniej odbędzie się w przyszłym tygodniu (24-28 października 2005), w naszej siedzibie przy ul. Corazziego 7. 
-
-<!--{{json:{"created_date":"2005-10-13 10:35:26","publish_down":"0000-00-00 00:00:00","id":"256"}}}-->
