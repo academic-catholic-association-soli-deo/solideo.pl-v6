@@ -1,0 +1,55 @@
+---
+title: Tajne rzeczy. Nie ma wstępu.
+coverPhoto:
+  alt: so mysterious
+  path: mystery.jpg
+---
+<style>
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+    width: 70%;
+    border: 1px solid #ccc;
+    padding: 10px 10px;
+    display: block;
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    padding-bottom: 2px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+</style>
+
+
+<div class="container">
+<label for="uname"><b>Username</b></label>
+<input type="text" placeholder="Username" name="uname" required>
+
+<label for="psw"><b>Password</b></label>
+<input type="password" placeholder="Password" name="psw" required>
+    
+<button>Login</button>
+</div>

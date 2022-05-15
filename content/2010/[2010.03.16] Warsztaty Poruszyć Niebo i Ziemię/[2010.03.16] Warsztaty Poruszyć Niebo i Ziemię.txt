@@ -1,8 +1,0 @@
-
-# Warsztaty Poruszyć Niebo i Ziemię
-
-<time>Zapisz się już dziś</time>
-
-Zapisz się już dziś | Uruchomiliśmy zapisy na pierwsze trzy warsztaty z cyklu Poruszyć Niebo i Ziemię. Zarządzanie Projektami, Zarządzanie Sobą i Zdrowe Odżywianie. Zapraszamy
-
-<!--{{json:{"created_date":"2010-03-16 11:13:25","publish_down":"0000-00-00 00:00:00","id":"906"}}}-->

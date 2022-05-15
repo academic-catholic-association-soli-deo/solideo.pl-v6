@@ -1,0 +1,23 @@
+---
+time: 2019.05.30 18.00
+title: W zgodzie z własnym sumieniem
+coverPhoto:
+  alt: W zgodzie z własnym sumieniem
+  path: 1.jpg
+---
+Akademickie Stowarzyszenie Katolickie Soli Deo zaprasza na konferencję z Ramoną i Janem Figat pod tytułem "W zgodzie z własnym sumieniem".
+
+Nasi prelegenci opowiedzą w trakcie niej o wpływie sumienia na życie każdego człowieka.
+Jak radzić sobie z wyrzutami sumienia?
+Jak odnaleźć się we własnych myślach?
+Co to takiego etyczne zachowanie?
+Skąd się bierze głos sumienia?
+Dobry rachunek sumienia to jaki?
+Historia małżeństwa i świadectwo żywego Boga w codziennym życiu.
+
+
+Ramona i Jan Figat to katolickie małżeństwo prowadzące stronę i kanał na YouTubie "Jednym Sercem" (https://www.jednymsercem.pl/) ich życiową misją jest głoszenie Boga, swoim uśmiechem i wiarą zarażają innych. Ramona jest doktorantką na Warszawskim Uniwersytecie Medycznym, a Jan na Politechnice Warszawskiej. 
+
+Konferencja odbędzie się w czwartek 30.05.19r. na wydziale Farmaceutyczny, WUM - sala Olszewskiego (ul. Banacha 1) o godz. 18:00. 
+
+Zapraszamy serdecznie 😀

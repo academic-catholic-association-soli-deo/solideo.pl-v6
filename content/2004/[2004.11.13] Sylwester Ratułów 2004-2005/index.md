@@ -1,0 +1,48 @@
+---
+content: >-
+  29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca
+  starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło
+  Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 29 XII 2004 - 2 I 2005 | Jak co
+  roku organizujemy wspólne świętowanie końca starego i początku nowego roku.
+  Jak co roku robimy to w małej wiosce koło Zakopanego, w Ratułowie, gdzie mamy
+  naszą solideową chatkę.
+
+  -->
+source: jos
+title: Sylwester Ratułów 2004/2005
+publish_down: '0000-00-00 00:00:00'
+created: '2004-11-13 16:45:03'
+id: '179'
+original_introtext: >-
+  29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca
+  starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło
+  Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+original_fulltext: ''
+text-date: 29 XII 2004 - 2 I 2005
+after-2013-move:
+  content: >-
+    29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca
+    starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło
+    Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+  source: jom
+  title: Sylwester Ratułów 2004/2005
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '179'
+  original_introtext: >-
+    29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca
+    starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło
+    Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+  original_fulltext: ''
+  text-date: 29 XII 2004 - 2 I 2005
+time: 29 XII 2004 - 2 I 2005
+---
+29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 29 XII 2004 - 2 I 2005 | Jak co roku organizujemy wspólne świętowanie końca starego i początku nowego roku. Jak co roku robimy to w małej wiosce koło Zakopanego, w Ratułowie, gdzie mamy naszą solideową chatkę.
+-->
+
+<!--{{json:{"created_date":"2004-11-13 16:45:03","publish_down":"0000-00-00 00:00:00","id":"179"}}}-->

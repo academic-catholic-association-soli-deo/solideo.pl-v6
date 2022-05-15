@@ -1,0 +1,20 @@
+---
+content: >
+
+  Konferencja odbyła się 16 kwietnia 2013, w Szpitalu Klinicznym im. Dzieciątka
+  Jezus w Warszawie.
+source: jom
+title: Psychiatria a opętanie - nagranie
+publish_down: '0000-00-00 00:00:00'
+created: '2013-10-19 16:32:40'
+id: '5318'
+original_introtext: >-
+  <p>Konferencja odbyła się 16 kwietnia 2013, w Szpitalu Klinicznym im.
+  Dzieciątka Jezus w Warszawie.</p>
+original_fulltext: ''
+time: '2013-10-19 16:32:40'
+---
+Konferencja odbyła się 16 kwietnia 2013, w Szpitalu Klinicznym im. Dzieciątka Jezus w Warszawie.
+
+
+<!--{{json:{"created_date":"2013-10-19 16:32:40","publish_down":"0000-00-00 00:00:00","id":"5318"}}}-->

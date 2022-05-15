@@ -1,0 +1,28 @@
+---
+time: 2019.12.13
+title: Sylwester z ASK Soli Deo
+coverPhoto:
+  alt: Sylwester z ASK Soli Deo
+  path: Sylwester.jpg
+---
+Akademickie Stowarzyszenie Katolickie Soli Deo serdecznie zaprasza na Bal Sylwestrowy 2019/2020!
+
+Zapewniamy szampańską zabawę do białego rana, niesamowitą muzykę oraz doborowe towarzystwo! Wszystko to sprawi, że tegoroczna impreza będzie niezapomniana.
+
+Pragniemy rozpocząć wydarzenie Mszą Świętą o godzinie 19:00 w kościele pw. Bogurodzicy Maryi (ul. Powstańców Śląskich 67A). Następnie o godzinie 20:00 rozpocznie się zabawa w sali przy ul. Powstańców Śląskich 67D, która znajduje się tuż przy kościele.
+
+Cena wynosi 159 zł
+i obejmuje całonocny catering w formie szwedzkiego stołu( w ramach którego będą podane dania obiadowe, przystawki, napoje, ciasta, kawa i herbata) oraz usługę DJ'a. 
+O północy zostanie podany szampan.
+
+Zapisy odbywają się poprzez formularz: https://docs.google.com/forms/d/e/1FAIpQLScGp7wLRxfkKNcgHOClDI256zcdebcJkQ5IWA8CxjFgQAN5Bg/viewform?usp=sf_link
+i trwają do 22.12.2019r. 
+Dane do przelewu zostaną podane w wiadomości z potwierdzeniem zapisu. Na wpłaty czekamy do 26.12.2019r.
+
+UWAGA!
+Podkreślamy, iż jak każde wydarzenie organizowane przez ASK Soli Deo, Sylwester ma charakter bezalkoholowy (oprócz szampana o północy). Obowiązują stroje wieczorowe.
+Impreza jest kierowana do osób w wieku do 30 roku życia włącznie.
+
+W razie wszelkich pytań prosimy o kontakt na adres integracja.solideo@gmail.com
+
+Do zobaczenia!

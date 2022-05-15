@@ -1,8 +1,0 @@
-# Instrukcja
-
-W tym folderze znajdują się zdjęcia do wyświetlenia jako zdjęcie nagłówkowe (między logo, a menu).
-
-1. Powinny mieć rozszerzenie jpg. 
-2. Skalujemy je do szerokości ok. 2500px, wysokość wtedy powinna wynieść ok. 600-650px, ale strona nie zepsuje się, jeżeli proporcje będą trochę inne.
-2. Starajmy się jak najbardziej je skompresować (zwykle jakość jpg ustawiałem w nich na ok. 82 — rozmiar oscylujący koło 300kB jest akceptowalny
-3. Dla przyszłych zastosowań (np. kiedy internet będzie znacznie szybszy niż dzis) — proponuję wrzucać wersję przed przeskalowaniem, albo wręcz oryginalny obrazek i poprzedzić jego nazwę podkreślnikiem "_". Wtedy ten duży obrazek nie będzie brał udziału w losowaniu.

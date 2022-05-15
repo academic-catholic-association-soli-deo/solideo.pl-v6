@@ -1,0 +1,15 @@
+---
+time: '2018-03-22 19:00:00'
+title: Człowiek jako trzcina myśląca – wykład Krzysztofa Zanussi
+coverPhoto:
+  alt: Plakat wykładu Krzysztofa Zanussi
+  path: krzysztof-zanussi-konferencja.jpg
+---
+Krzysztof Zanussi - polski reżyser i scenarzysta filmowy, teatralny i telewizyjny, producent filmowy, publicysta, pedagog oraz filozof, dyrektor Studia Filmowego TOR, znany z takich produkcji jak "Iluminacja", "Obce ciało" - zabierze nas w podróż w pełną filozoficznej refleksji i opowie, jaki związek ma wiara z rozumem. Zapraszamy! 
+
+Konferencja odbędzie się **22 marca 2018** o godz. **19:00** w auli B w budynku głównym Szkoły Głównej Handlowej (aleja Niepodległości 162).
+
+Chcecie dowiedzieć się więcej o ASK Soli Deo? ;)
+Zachęcamy do śledzenia naszych fanpage'y:
+- [facebook.com/SoliDeoSgh/](http://facebook.com/SoliDeoSgh/)
+- [facebook.com/SoliDeo1989/](http://facebook.com/SoliDeo1989/)

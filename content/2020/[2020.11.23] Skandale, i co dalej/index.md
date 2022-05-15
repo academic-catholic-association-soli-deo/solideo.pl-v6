@@ -1,0 +1,26 @@
+---
+time: 2020.11.23
+title: 'Skandale, i co dalej?'
+coverPhoto:
+  alt: 'Skandale, i co dalej?'
+  path: Skandale.png
+---
+Jesteś świadkiem sytuacji powodującej zgorszenie i nie wiesz jak zareagować?
+
+Oburza Cię zachowanie innych ale nie umiesz podać argumentów potwierdzających Twoje racje?
+
+Otaczają Cię przeróżne skandale, wobec których nie potrafisz być obojętny, a jednocześnie pojawiają się w Twojej głowie różne wątpliwości i pytania?
+
+Te rekolekcje są właśnie dla Ciebie!
+
+Akademickie Stowarzyszenie Katolickie Soli Deo pragnie zaprosić na Rekolekcje Adwentowe pt. "Skandale, i co dalej?", które odbędą się w formie mszy świętych z kazaniem rekolekcyjnym w trzech kolejnych dniach: 29.11-1.12(od niedzieli do wtorku) w Archikatedrze Warszawskiej.
+
+Nauki rekolekcyjne wygłosi ks. kanonik Bartosz Szoplik, wikariusz Bazyliki Archikatedralnej, a także opiekun duchowy naszego Stowarzyszenia 🙂
+
+Serdecznie zapraszamy wszystkich zainteresowanych!
+
+CO: Rekolekcje adwentowe
+
+GDZIE: Bazylika archikatedralna św. Jana Chrzciciela w Warszawie
+
+KIEDY: 29.11-1.12, g. 19:00

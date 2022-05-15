@@ -1,0 +1,28 @@
+---
+time: '2018-11-08 18:00'
+title: Wstąp do Soli Deo 2018 - spotkanie na Politechnice!
+coverPhoto:
+  alt: Wstąp do Soli Deo 2018 - spotkanie na Politechnice!
+  path: pw.jpg
+---
+Szukasz idealnej organizacji studenckiej dla siebie?
+Chcesz współpracować z ludźmi z wartościami i zawierać przyjaźnie na całe życie? Organizować wydarzenia wypełniające największe sale uniwersyteckie, zapraszać wyjątkowych gości, takich ludzi których od lat podziwiasz? 
+
+Niezależnie od tego, czy dopiero zaczynasz studia, czy też od lat odwiedzasz mury swojej uczelni – zapraszamy do Soli Deo!
+
+Akademickie Stowarzyszenie Katolickie Soli Deo to największa w Polsce organizacja promująca nauczanie Kościoła katolickiego w środowisku akademickim. Naszymi gośćmi byli m. in. Marek Jurek, Krzysztof Zanussi, o. Adam Szustak, prof. Wanda Półtawska, Krzysztof Ziemiec czy Dariusz Kowalski. 
+
+W październiku zapraszamy Was na już kolejne spotkanie informacyjne z cyklu Wstąp do Soli Deo!
+
+Tym razem zapraszamy wszystkich bardzo serdecznie na Politechnikę Warszawską!
+
+Kiedy? - 08.11.2018r., godz. 18.00
+Gdzie? - PW, Gmach Główny, sala 208
+
+Do zobaczenia!
+
+UWAGA! Każdy może przyjść na dowolne spotkanie, to które mu pasuje. Nie trzeba przychodzić na spotkanie swojej uczelni. 
+
+Strona wydarzenia na Facebooku(https://www.facebook.com/events/316873652473988/)
+
+Link do profilu ASK Soli Deo(https://www.facebook.com/pg/SoliDeo1989) na Facebooku.

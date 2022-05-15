@@ -1,8 +1,0 @@
-
-# Walne Zgromadzenie ASK Soli Deo 13
-
-<time>10 grudzień 2006</time>
-
-10 grudzień 2006 |
-
-<!--{{json:{"created_date":"2013-05-08 20:59:32","publish_down":"0000-00-00 00:00:00","id":"375"}}}-->

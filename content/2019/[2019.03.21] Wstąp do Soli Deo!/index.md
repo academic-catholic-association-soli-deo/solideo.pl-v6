@@ -1,0 +1,21 @@
+---
+time: 2019.03.21 18.30
+title: Wstąp do Soli Deo!
+coverPhoto:
+  alt: Wstąp do Soli Deo!
+  path: pw.jpg
+---
+Szukasz idealnej organizacji studenckiej dla siebie?
+Chcesz współpracować z ludźmi z wartościami i zawierać przyjaźnie na życie? Organizować wydarzenia wypełniające największe sale uniwersyteckie i zapraszać wyjątkowych gości, ludzi których od lat podziwiasz? 
+
+Niezależnie od tego, czy dopiero zaczynasz studia, czy też od lat odwiedzasz mury swojej uczelni, ale jeszcze nie znalazłeś tam miejsca dla siebie – zapraszamy do Soli Deo!
+
+Akademickie Stowarzyszenie Katolickie Soli Deo to największa w Polsce organizacja promująca nauczanie Kościoła katolickiego w środowisku akademickim. Naszymi gośćmi byli m. in. Marek Jurek, Krzysztof Zanussi, o. Adam Szustak, prof. Wanda Półtawska, Krzysztof Ziemiec i Dariusz Kowalski. 
+
+Już 21 marca (czwartek) zapraszamy na spotkanie informacyjne na Politechnice Warszawskiej na godzinę 18.30!
+
+Po pierwszej oficjalnej części spotkania zapraszamy na część integracyjną.
+
+Do zobaczenia!
+
+UWAGA! Każdy może przyjść na dowolne spotkanie, to które mu pasuje. Nie trzeba przychodzić na spotkanie swojej uczelni

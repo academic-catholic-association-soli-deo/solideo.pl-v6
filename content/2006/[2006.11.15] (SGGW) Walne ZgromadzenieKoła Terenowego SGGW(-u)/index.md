@@ -1,0 +1,43 @@
+---
+content: >-
+  22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok.
+  godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 22 listopada 2006, godz.19:30
+  [red]aktualizacja[/red] | (po spotkaniu) ok. godz. [red]19:30[/red], cel:
+  wybór nowego zarządu koła
+
+  -->
+source: jos
+title: '[SGGW] Walne Zgromadzenie[br]Koła Terenowego [u]SGGW[/u]'
+publish_down: '0000-00-00 00:00:00'
+created: '2006-11-15 16:59:37'
+id: '418'
+original_introtext: >-
+  22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok.
+  godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+original_fulltext: ''
+text-date: '22 listopada 2006, godz.19:30 [red]aktualizacja[/red]'
+after-2013-move:
+  content: >-
+    22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok.
+    godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+  source: jom
+  title: '[SGGW] Walne Zgromadzenie[br]Koła Terenowego [u]SGGW[/u]'
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '418'
+  original_introtext: >-
+    22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok.
+    godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+  original_fulltext: ''
+  text-date: '22 listopada 2006, godz.19:30 [red]aktualizacja[/red]'
+time: '22 listopada 2006, godz.19:30 [red]aktualizacja[/red]'
+---
+22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok. godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 22 listopada 2006, godz.19:30 [red]aktualizacja[/red] | (po spotkaniu) ok. godz. [red]19:30[/red], cel: wybór nowego zarządu koła
+-->
+
+<!--{{json:{"created_date":"2006-11-15 16:59:37","publish_down":"0000-00-00 00:00:00","id":"418"}}}-->

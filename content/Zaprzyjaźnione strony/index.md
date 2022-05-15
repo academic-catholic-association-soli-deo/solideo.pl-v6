@@ -1,0 +1,13 @@
+---
+title: Nasi internetowi przyjaciele
+coverPhoto:
+  alt: Sylwester 2016 Soli Deo
+  path: sylwester-2016.jpg
+---
+Strony internetowe naszych członków:
+
+- **Wierność jest sexy**: O co chodzi? Chcemy powiedzieć światu: wierność jest możliwa! Wierność jest... sexy :)  — [www.facebook.com/wiernosc](https://www.facebook.com/wiernosc)
+- **Kazania ks. Piotra Pawlukiewicza**: Chyba nie potrzeba komentarza, ani zachęty:-) — [www.kazaniaksiedzapiotra.pl](http://www.kazaniaksiedzapiotra.pl)
+- **Ars Lumen -  Malujemy światłem najpiękniejsze chwile, aby zatrzymać je dla Ciebie na zawsze.**: Strona firmy Piotrka Woźniakiewicza - byłego członka Soli Deo, naszego nieocenionego fotografa, a do tego prezesa Koła Terenowego Soli Deo na UKSW. Tylko pozazdrościć talentu... prawda?:-) – [arslumen.pl](http://arslumen.pl/)
+- **Portfolio fotograficzne - Ewa Wiśniewska**: Strona z pracami naszego kolejnego fotografa – [www.ewawisniewska.pl](http://www.ewawisniewska.pl/)
+- **Kościół Akademicki św. Anny w Warszawie**: Centralny Ośrodek Duszpasterstwa Akademickiego – [www.swanna.waw.pl](http://www.swanna.waw.pl/)

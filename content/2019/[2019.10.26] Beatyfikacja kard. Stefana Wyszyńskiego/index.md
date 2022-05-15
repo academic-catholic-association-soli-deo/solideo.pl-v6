@@ -1,0 +1,14 @@
+---
+time: 2019.10.26
+title: Beatyfikacja kard. Stefana Wyszyńskiego
+coverPhoto:
+  alt: Beatyfikacja kard. Stefana Wyszyńskiego
+  path: Beatyfikacja kard. Stefana Wyszyńskiego.png
+---
+7 czerwca 2020 roku na Placu Piłsudskiego w Warszawie kardynał Stefan Wyszyński zostanie Beatyfikowany!
+ 
+Nasz Patron zmarł w uroczystość Wniebowstąpienia Pańskiego 28 maj 1981 roku. W 1988 po żarliwych modlitwach za wstawiennictwem kard. Wyszyńskiego została uzdrowiona 19-lentnia szczecinianka chora na nowotwór tarczycy, w tamtych czasach uważany za nieuleczalny. 
+Proces beatyfikacyjny kardynała Stefana Wyszyńskiego na etapie diecezjalnym rozpoczął się 20 maja 1989 roku, a zakończył 12 lat później 6 lutego 2001 roku. W trakcie procesu szczegółowo zbadano całe życie Prymasa Tysiąclecia w trakcie którego zgromadzono aż 2,5 tysiąca stron akt. 27 kwietnia 2001 roku wszystkie dokumenty zostały złożone w watykańskiej Kongregacji Spraw Kanonizacyjnych.   
+24 września 2019 roku komisja składająca się z kardynałów i biskupów potwierdziła autentyczność cudu uzdrowienia za przyczyną sługi Bożego. A już 7 czerwca 2020 roku prymas Tysiąclecia zostanie beatyfikowany!
+
+Podziękujmy Bogu za życie naszego Patrona!

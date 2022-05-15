@@ -1,0 +1,48 @@
+---
+content: >-
+  od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH (sala
+  229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do miejsca
+  spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): od 1 grudnia 2005 | Spotkania
+  beda odbywaly sie co 2- 3 tygodnie na SGH (sala 229G) i maja na celu
+  zglebianie nauki Jana Pawla II. Szczegoly co do miejsca spotkania juz wkrotce.
+  Spotkania poprowadzi Jakub Kozera.
+
+  -->
+source: jos
+title: Encykliki Papieskie
+publish_down: '0000-00-00 00:00:00'
+created: '2005-11-24 14:18:34'
+id: '276'
+original_introtext: >-
+  od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH (sala
+  229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do miejsca
+  spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+original_fulltext: ''
+text-date: od 1 grudnia 2005
+after-2013-move:
+  content: >-
+    od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH
+    (sala 229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do
+    miejsca spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+  source: jom
+  title: Encykliki Papieskie
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '276'
+  original_introtext: >-
+    od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH
+    (sala 229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do
+    miejsca spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+  original_fulltext: ''
+  text-date: od 1 grudnia 2005
+time: od 1 grudnia 2005
+---
+od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH (sala 229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do miejsca spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): od 1 grudnia 2005 | Spotkania beda odbywaly sie co 2- 3 tygodnie na SGH (sala 229G) i maja na celu zglebianie nauki Jana Pawla II. Szczegoly co do miejsca spotkania juz wkrotce. Spotkania poprowadzi Jakub Kozera.
+-->
+
+<!--{{json:{"created_date":"2005-11-24 14:18:34","publish_down":"0000-00-00 00:00:00","id":"276"}}}-->

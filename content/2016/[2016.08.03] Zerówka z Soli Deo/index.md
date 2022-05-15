@@ -1,0 +1,38 @@
+---
+content: "\n\_\n![images/13567132_10153762851592023_3397260283867777050_n.jpg](images/13567132_10153762851592023_3397260283867777050_n.jpg)\n\r\n\nJak co roku Akademickie Stowarzyszenie Katolickie Soli Deo organizuje dla studentów chcących wstąpić do naszej organizacji obóz zerowy. Wyjazd adresowany jest w szczególności do studentów pierwszych lat studiów niezwiązanych do tej pory z Soli Deo i chcących wstąpić do naszego stowarzyszenia.\_\n\nTo niezwykła okazja do wspólnej integracji w gronie osób rozpoczynających studia, ale także tych, którzy są już studentami starszych lat i służą radą i pomocą.\_\n\r\n\n<!--{{intro-break}}-->\n\r\n\nW tym roku udajemy się do Ustrzyk Górnych w Bieszczadach, gdzie czeka nas mnóstwo przygód i atrakcji. Wyjeżdżamy we wtorek 6 września 2016, a wracamy w poniedziałek 12 września 2016.\_\nBędziemy wędrować po bieszczadzkich szlakach zdobywając m.in. Połoninę Wetlińską i Caryńską, Tarnicę,Halicz, Małą i Wielką Rawkę oraz Kremenaros.\nPlanowana jest również wycieczka nad Zalew Soliński z możliwością zwiedzania zapory w Solinie.\nPrzez ten czas będziemy mieszkać w domu rekolekcyjnym w Ustrzykach Górnych, gdzie będziemy mieć zapewnione śniadania i obiadokolacje.\n[link do strony domu rekolekcyjnego]\n[http://ustrzykigorne.przemyska.pl/2012/07/19/dom-rekolekcyjny/](http://l.facebook.com/l.php?u=http%3A%2F%2Fustrzykigorne.przemyska.pl%2F2012%2F07%2F19%2Fdom-rekolekcyjny%2F&h=xAQGam7Fo&enc=AZPVavpAPxS3cQZEDGTZ0WiQvlvCSbqS3k8tm9cDdOUkMEMTut__VIK9p5Ih7J5uhbc&s=1)\n\nKoszt 7-dniowego obozu wynosi 510 zł i obejmuje nocleg, wyżywienie, transport na miejscu, bilety wstępu do Bieszczadzkiego Parku Narodowego, koszulkę pamiątkową oraz wiele atrakcji i niezapomnianych przygód zapewnionych przez koordynatorów! :)\_\n\nZAPISY ZA POMOCĄ FORMULARZA:\n[https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform)\n\nKontakt z organizatorami: zerowka2016.solideo@gmail.com\n"
+source: jom
+title: Zerówka z Soli Deo
+publish_down: '0000-00-00 00:00:00'
+created: '2016-08-03 23:24:00'
+id: '5424'
+original_introtext: "<p>\_<img src=\"images/13567132_10153762851592023_3397260283867777050_n.jpg\" border=\"0\" alt=\"\" width=\"919\" height=\"422\" /></p>\r\n<p><span style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\">Jak co roku Akademickie Stowarzyszenie Katolickie Soli Deo organizuje dla studentów chcących wstąpić do naszej organizacji obóz zerowy. Wyjazd adresowany jest w szczególności do studentów pierwszych lat studiów niezwiązanych do tej pory z Soli Deo i chcących wstąpić do naszego stowarzyszenia.\_</span><br style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\" /><br style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\" /><span style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\">To niezwykła okazja do wspólnej integracji w gronie osób rozpoczynających studia, ale także tych, którzy są już studentami starszych lat i służą radą i pomocą.\_</span></p>\r\n"
+original_fulltext: "\r\n<p><span class=\"fsl\"><span class=\"fsl\"><span class=\"fsl\"><span style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\">W tym roku udajemy się do Ustrzyk Górnych w Bieszczadach, gdzie czeka nas mnóstwo przygód i atrakcji. Wyjeżdżamy we wtorek 6 września 2016, a wracamy w poniedziałek 12 września 2016.\_</span><br style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\" /><span style=\"color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\">Będziemy wędrować po bieszczadzkich szlakach zdobywając m.in. Połoninę Wetliń</span><span class=\"text_exposed_show\" style=\"display: inline; color: #4b4f56; font-family: helvetica, arial, sans-serif; font-size: 14px; line-height: 18.76px;\">ską i Caryńską, Tarnicę,Halicz, Małą i Wielką Rawkę oraz Kremenaros.<br />Planowana jest również wycieczka nad Zalew Soliński z możliwością zwiedzania zapory w Solinie.<br />Przez ten czas będziemy mieszkać w domu rekolekcyjnym w Ustrzykach Górnych, gdzie będziemy mieć zapewnione śniadania i obiadokolacje.<br />[link do strony domu rekolekcyjnego]<br /><a href=\"http://l.facebook.com/l.php?u=http%3A%2F%2Fustrzykigorne.przemyska.pl%2F2012%2F07%2F19%2Fdom-rekolekcyjny%2F&amp;h=xAQGam7Fo&amp;enc=AZPVavpAPxS3cQZEDGTZ0WiQvlvCSbqS3k8tm9cDdOUkMEMTut__VIK9p5Ih7J5uhbc&amp;s=1\" target=\"_blank\" rel=\"nofollow nofollow\" style=\"color: #365899; cursor: pointer;\">http://ustrzykigorne.przemyska.pl/2012/07/19/dom-rekolekcyjny/</a><br /><br />Koszt 7-dniowego obozu wynosi 510 zł i obejmuje nocleg, wyżywienie, transport na miejscu, bilety wstępu do Bieszczadzkiego Parku Narodowego, koszulkę pamiątkową oraz wiele atrakcji i niezapomnianych przygód zapewnionych przez koordynatorów! :)\_<br /><br />ZAPISY ZA POMOCĄ FORMULARZA:<br /><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform\" target=\"_blank\" rel=\"nofollow nofollow\" style=\"color: #365899; cursor: pointer;\">https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform</a><br /><br />Kontakt z organizatorami: zerowka2016.solideo@gmail.com</span></span></span></span></p>"
+time: '2016-08-03 23:24:00'
+coverPhoto:
+  alt: 13567132_10153762851592023_3397260283867777050_n.jpg
+  path: 13567132_10153762851592023_3397260283867777050_n.jpg
+---
+Jak co roku Akademickie Stowarzyszenie Katolickie Soli Deo organizuje dla studentów chcących wstąpić do naszej organizacji obóz zerowy. Wyjazd adresowany jest w szczególności do studentów pierwszych lat studiów niezwiązanych do tej pory z Soli Deo i chcących wstąpić do naszego stowarzyszenia. 
+
+To niezwykła okazja do wspólnej integracji w gronie osób rozpoczynających studia, ale także tych, którzy są już studentami starszych lat i służą radą i pomocą. 
+
+
+<!--{{intro-break}}-->
+
+
+W tym roku udajemy się do Ustrzyk Górnych w Bieszczadach, gdzie czeka nas mnóstwo przygód i atrakcji. Wyjeżdżamy we wtorek 6 września 2016, a wracamy w poniedziałek 12 września 2016. 
+Będziemy wędrować po bieszczadzkich szlakach zdobywając m.in. Połoninę Wetlińską i Caryńską, Tarnicę,Halicz, Małą i Wielką Rawkę oraz Kremenaros.
+Planowana jest również wycieczka nad Zalew Soliński z możliwością zwiedzania zapory w Solinie.
+Przez ten czas będziemy mieszkać w domu rekolekcyjnym w Ustrzykach Górnych, gdzie będziemy mieć zapewnione śniadania i obiadokolacje.
+[link do strony domu rekolekcyjnego]
+[http://ustrzykigorne.przemyska.pl/2012/07/19/dom-rekolekcyjny/](http://l.facebook.com/l.php?u=http%3A%2F%2Fustrzykigorne.przemyska.pl%2F2012%2F07%2F19%2Fdom-rekolekcyjny%2F&h=xAQGam7Fo&enc=AZPVavpAPxS3cQZEDGTZ0WiQvlvCSbqS3k8tm9cDdOUkMEMTut__VIK9p5Ih7J5uhbc&s=1)
+
+Koszt 7-dniowego obozu wynosi 510 zł i obejmuje nocleg, wyżywienie, transport na miejscu, bilety wstępu do Bieszczadzkiego Parku Narodowego, koszulkę pamiątkową oraz wiele atrakcji i niezapomnianych przygód zapewnionych przez koordynatorów! :) 
+
+ZAPISY ZA POMOCĄ FORMULARZA:
+[https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc61wMz7vxcGCfV4VG2Grg7Wpyoo-MsmMaVpyVuSGgjLLDERA/viewform)
+
+Kontakt z organizatorami: zerowka2016.solideo@gmail.com
+
+
+<!--{{json:{"created_date":"2016-08-03 23:24:00","publish_down":"0000-00-00 00:00:00","id":"5424"}}}-->

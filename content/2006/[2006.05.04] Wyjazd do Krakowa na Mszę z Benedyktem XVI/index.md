@@ -1,0 +1,62 @@
+---
+content: >-
+  27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta XVI
+  do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na
+  Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają
+  (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH
+  [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba
+  miejsc jest ograniczona!!!
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 27 - 28 maja 2006 | Z okazji
+  pierwszej pielgrzymki papieża [u][b]Benedykta XVI do Polski[/b][/u]
+  organizujemy wyjazd na spotkanie z Ojcem Świętym na Krakowskich Błoniach.
+  [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają (zarezerwowane miejsce dopiero po
+  wpłacie kwoty) u [b]Marty Sobieckiej z SGH [/b][mail%n%martusia18_86@o2.pl]
+  lub ewentualnie 509 460 023. [br]Liczba miejsc jest ograniczona!!!
+
+  -->
+source: jos
+title: Wyjazd do Krakowa na Mszę z Benedyktem XVI
+publish_down: '0000-00-00 00:00:00'
+created: '2006-05-04 22:46:33'
+id: '335'
+original_introtext: >-
+  27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta XVI
+  do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na
+  Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają
+  (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH
+  [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba
+  miejsc jest ograniczona!!!
+original_fulltext: ''
+text-date: 27 - 28 maja 2006
+after-2013-move:
+  content: >-
+    27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta
+    XVI do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na
+    Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają
+    (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH
+    [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba
+    miejsc jest ograniczona!!!
+  source: jom
+  title: Wyjazd do Krakowa na Mszę z Benedyktem XVI
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '335'
+  original_introtext: >-
+    27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta
+    XVI do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na
+    Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają
+    (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH
+    [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba
+    miejsc jest ograniczona!!!
+  original_fulltext: ''
+  text-date: 27 - 28 maja 2006
+time: 27 - 28 maja 2006
+---
+27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta XVI do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba miejsc jest ograniczona!!!
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 27 - 28 maja 2006 | Z okazji pierwszej pielgrzymki papieża [u][b]Benedykta XVI do Polski[/b][/u] organizujemy wyjazd na spotkanie z Ojcem Świętym na Krakowskich Błoniach. [u]Koszt wyjazdu to 50 zł.[/u] Zapisy trwają (zarezerwowane miejsce dopiero po wpłacie kwoty) u [b]Marty Sobieckiej z SGH [/b][mail%n%martusia18_86@o2.pl] lub ewentualnie 509 460 023. [br]Liczba miejsc jest ograniczona!!!
+-->
+
+<!--{{json:{"created_date":"2006-05-04 22:46:33","publish_down":"0000-00-00 00:00:00","id":"335"}}}-->

@@ -1,0 +1,13 @@
+---
+title: Dla mediów
+---
+- [Kontakt do rzecznika prasowego](/kontakt/rzecznik-prasowy)
+- [Kontakt do prezesa stowarzyszenia](/kontakt/zarzad-glowny)
+- [Logo w różnych rozdzielczościach](/o-nas/logo)
+
+Prosimy nie zrażać się jeśli nie zdołają Państwo dodzwonić się do naszych przedstawicieli. Stowarzyszenie tworzą studenci, więc - mimo szczerych chęci - mogą być oni niedostępni w ciągu dnia z uwagi na studia. W takich przypadkach prosimy o kontakt mailowy.
+
+ 
+
+## Newsletter 
+Propozycje informacji do newslettera prosimy wysyłać naszemu PR (kontakt w zakładce [> Kontakt > Zarząd główny](/kontakt/zarzad-glowny))

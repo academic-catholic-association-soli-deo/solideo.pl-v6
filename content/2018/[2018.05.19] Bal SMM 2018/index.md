@@ -1,0 +1,42 @@
+---
+time: '2018-05-19 20:00'
+title: Bal SMM 2018
+coverPhoto:
+  alt: Bal SMM 2018
+  path: bal.jpg
+---
+Nadeszła słoneczna wiosna, a wraz z nią kolejna edycja projektu Sympatia Miłość Małżeństwo. 
+
+Wszystkich zakochanych i tych jeszcze nie zakochanych zapraszamy (kto wie, co wydarzy się, gdy skorzystacie z tego zaproszenia) na jedną z najlepszych tanecznych imprez tej wiosny! :)
+
+Tegoroczny bal odbędzie się 19 maja w podziemiach Katedry Praskiej w godzinach 20.00 - 4.00.
+Zapewniamy taneczne piosenki, o które zadba nasz DJ, przekąski oraz napoje do białego rana! 
+
+Ceny biletów:
+Członkowie Soli Deo: 20 zł
+Sympatycy Soli Deo (osoby spoza Stowarzyszenia): 30 zł
+
+Zapisy trwają do 13 maja, wpłaty przyjmujemy do 15 maja.
+
+Link do zapisów(https://docs.google.com/forms/d/1erWJJTz4bdIgjY8fYGhcH6-Bjf-IzL6HOASvjfpGBMA/viewform?edit_requested=true)
+
+Impreza jest bezalkoholowa. Na salę wpuścimy wszystkie zapisane osoby w wieku 18-30 lat w strojach wieczorowych (nawet tych spóźnialskich).
+
+
+
+## Cykl "Sympatia Miłość Małżeństwo"
+Strona na Facebooku(https://www.facebook.com/sympatiamiloscmalzenstwo/)
+
+Konferencje w cyklu:
+
+7 maja: dr. Jacek Pulikowski (https://www.facebook.com/events/179860855912577/)
+
+14 maja, Małżeństwo państwa Białobrzeskich (https://www.facebook.com/events/2122699504437265/)
+
+17 maja, Wojciech i Agnieszka Amaro (https://www.facebook.com/events/1815258705434944/)
+
+19 maja, Bal -(https://www.facebook.com/events/223628095056391/_
+
+24 maja, o. Adam Szustak (https://www.facebook.com/events/369910966830679/)
+
+Przyjdźcie i przekonajcie się, że "wszystko to psu na budę bez miłości"! ;)

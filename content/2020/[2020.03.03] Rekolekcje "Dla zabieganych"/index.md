@@ -1,0 +1,13 @@
+---
+time: 2020.03.03
+title: Rekolekcje "Dla zabieganych"
+coverPhoto:
+  alt: Rekolekcje "Dla zabieganych"
+  path: Rekolekcje_SGGW.jpg
+---
+Wielki post to czas nawroceń. Wśród wielu obowiązków często nie mamy czasu na zadbanie o naszą relację z Bogiem. Wtedy z pomocą przychodzą nam rekolekcje "Dla zabieganych".
+W szukaniu odpowiedzi pomoże nam ojciec Adam Szustak - znany i ceniony dominikanin, rekolekcjonista, wędrowny kaznodzieja. Dzięki swojej otwartości, poczuciu humoru i silnej wierze przyciąga tlumy do Boga. Daj się przyciągnąć i Ty! 
+ 
+Już 26 marca zapraszamy Cię na rekolekcje z ojcem Adamem Szustakiem. Odbędą się one na terenie SGGW w bud. 23 w auli 1 i 2. 
+ 
+Wstań z kanapy! Nie może Cię zabraknąć!

@@ -1,0 +1,46 @@
+---
+content: "28 kwietnia 2008, godz. 19.00 | Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana Wyszyńskiego zostanie odprawiona **28 kwietnia** o godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.\n\n         \n\n\n<!--CONTENT FROM OLD SERVER (jos before 2013): 28 kwietnia 2008, godz. 19.00 | Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana Wyszyńskiego zostanie odprawiona **28 kwietnia** o godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.\n\r\n         \n\r\n         \n-->"
+source: jos
+title: Msza św. w intencji Prymasa Tysiąclecia
+publish_down: '0000-00-00 00:00:00'
+created: '2008-04-20 17:59:05'
+id: '618'
+original_introtext: "28 kwietnia 2008, godz. 19.00 | <font size=\"2\"><span style=\"font-family: Arial;\">Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana Wyszyńskiego zostanie odprawiona </span><b style=\"font-family: Arial;\">28 kwietnia</b><span style=\"font-family: Arial;\"> o godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.</span></font><br>\r\n         <br>\r\n         "
+original_fulltext: ''
+text-date: '28 kwietnia 2008, godz. 19.00'
+after-2013-move:
+  content: >
+    28 kwietnia 2008, godz. 19.00 | Msza św. w intencji beatyfikacji Sługi
+    Bożego kard. Stefana Wyszyńskiego zostanie odprawiona **28 kwietnia** o
+    godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.
+
+             
+  source: jom
+  title: Msza św. w intencji Prymasa Tysiąclecia
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '618'
+  original_introtext: >-
+    28 kwietnia 2008, godz. 19.00 | <font size="2"><span style="font-family:
+    Arial;">Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana
+    Wyszyńskiego zostanie odprawiona </span><b style="font-family: Arial;">28
+    kwietnia</b><span style="font-family: Arial;"> o godz. 19.00 w katedrze p.w.
+    św. Jana Chrzciciela w Warszawie.</span></font><br>
+             <br>
+  original_fulltext: ''
+  text-date: '28 kwietnia 2008, godz. 19.00'
+time: '28 kwietnia 2008, godz. 19.00'
+---
+28 kwietnia 2008, godz. 19.00 | Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana Wyszyńskiego zostanie odprawiona **28 kwietnia** o godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.
+
+         
+
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 28 kwietnia 2008, godz. 19.00 | Msza św. w intencji beatyfikacji Sługi Bożego kard. Stefana Wyszyńskiego zostanie odprawiona **28 kwietnia** o godz. 19.00 w katedrze p.w. św. Jana Chrzciciela w Warszawie.
+
+         
+
+         
+-->
+
+<!--{{json:{"created_date":"2008-04-20 17:59:05","publish_down":"0000-00-00 00:00:00","id":"618"}}}-->

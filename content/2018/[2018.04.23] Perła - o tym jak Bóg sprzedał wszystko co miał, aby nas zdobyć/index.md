@@ -1,0 +1,17 @@
+---
+time: '2018-04-23 19:00'
+title: 'Perła - o tym jak Bóg sprzedał wszystko co miał, aby nas zdobyć'
+coverPhoto:
+  alt: 'Perła - o tym jak Bóg sprzedał wszystko co miał, aby nas zdobyć'
+  path: hutek.jpg
+---
+Która z nas myśli o sobie jako o skarbie? O skarbie, który się zdobywa, walczy o niego, sprzedaje się wszystko, aby go mieć? Nasze serca i głowy są zakażone kłamstwem o tym, że jesteśmy niegodne miłości, że musimy na nią zasługiwać, robić coś, aby poczuć się wartościowe i ważne. Pragnienie prawdziwej miłości jest tak silne, że jesteśmy w stanie zrobić praktycznie wszystko, aby chociaż przez chwilę być dla kogoś ważną. 
+Pan Bóg mówi Ci dziś- jesteś PERŁĄ, moim skarbem, nie cofnę się, ani nie zmęczę walką o Ciebie. Nawet jeśli jesteś zabrudzona to nadal jesteś klejnotem w moich oczach, bo KOCHAM CIĘ BEZWARUNKOWO. 
+Nie chodzi o to, aby nie upadać, ale aby powstawać wraz z Nim dać się Mu zdobyć. 
+
+Zapraszamy na pierwsze spotkanie w ramach tegorocznej edycji projektu "Boska, ja!", które odbędzie się w poniedziałek, 23 kwietnia o godz. 19:00 w sali 144 w Gmachu Głównym Politechniki Warszawskiej. Naszym gościem będzie Gosia Hutek. 
+
+Gosia Hutek - wokalistka jazzowa, kompozytorka, autorka tekstów. Łączy swoją życiową pasje z pracą, ale przy tym nie zapomina o wartościach chrześcijańskich, które promuje, również przez swój śpiew. Na konferencji opowie nam o bezwarunkowej miłości do Boga
+
+
+Strona wydarzenia na Facebooku(https://www.facebook.com/events/156692345001894/)

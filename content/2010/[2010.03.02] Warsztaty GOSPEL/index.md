@@ -1,0 +1,223 @@
+---
+content: >-
+  6-7 marca | 
+
+  **Warsztaty gospel** "UWIELBIENIE BOGA W MUZYCE GOSPEL"
+
+  Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w Polsce coraz
+  większą popularność, jej ?czar? dzięki koncertom i imprezom warsztatowym
+  poznało już tysiące ludzi w naszym kraju.
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w Warszawie odbędzie
+  się 2- dniowe spotkanie z tym stylem muzycznym. III edycja OGÓLNOPOLSKICH
+  WARSZTATÓW GOSPEL odbędzie się od 6 do 7 marca w warszawskim Domu Kultury
+  Świt.&nbsp; Podczas warsztatów odbędą się zajęcia chóralne, które poprowadzą:
+  Mark Beswick (WB) i Brian Fentress (USA),&nbsp; specjalną grupą dla muzyków
+  zajmie się pianista Howard Francis (WB). Dzieci będą uczyć się śpiewu gospel z
+  instruktorką Anną Bajak, natomiast tancerka Iwona Dreger 
+
+  nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak tańczyć w
+  rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą
+  spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością
+  największym atutem tej interdyscyplinarnej i międzypokoleniowej imprezy są
+  wybitni instruktorzy, którzy współpracowali z czołówką artystów muzyki
+  rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem,
+  Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem, Natalią
+  Kukulską i Trzecią Godziną Dnia.
+
+
+  &nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym KONCERTEM
+  FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie się&nbsp; w
+  niedzielę, 7 marca, o godzinie 18.30.
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby podszkolić
+  swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel zapraszamy
+  na stronę www.newgospel.pl gdzie można znaleźć 
+
+  więcej szczegółów dotyczących tej propozycji kulturalnej. 
+
+  &nbsp;
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 6-7 marca | 
+
+  **Warsztaty gospel** "UWIELBIENIE BOGA W MUZYCE GOSPEL"
+
+  Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w Polsce coraz
+  większą popularność, jej ?czar? dzięki koncertom i imprezom warsztatowym
+  poznało już tysiące ludzi w naszym kraju.
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w Warszawie odbędzie
+  się 2- dniowe spotkanie z tym stylem muzycznym. III edycja OGÓLNOPOLSKICH
+  WARSZTATÓW GOSPEL odbędzie się od 6 do 7 marca w warszawskim Domu Kultury
+  Świt.&nbsp; Podczas warsztatów odbędą się zajęcia chóralne, które poprowadzą:
+  Mark Beswick (WB) i Brian Fentress (USA),&nbsp; specjalną grupą dla muzyków
+  zajmie się pianista Howard Francis (WB). Dzieci będą uczyć się śpiewu gospel z
+  instruktorką Anną Bajak, natomiast tancerka Iwona Dreger nauczy chętnych
+  do&nbsp; posługiwania się flagami i szarfami jak tańczyć w rytm gospelu.
+  Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą spróbować zarówno
+  dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością największym atutem
+  tej interdyscyplinarnej i międzypokoleniowej imprezy są wybitni instruktorzy,
+  którzy współpracowali z czołówką artystów muzyki rozrywkowej i
+  chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem, Arethą Franklin,
+  Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem, Natalią Kukulską i
+  Trzecią Godziną Dnia.
+
+
+  &nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym KONCERTEM
+  FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie się&nbsp; w
+  niedzielę, 7 marca, o godzinie 18.30.
+
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby podszkolić
+  swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel zapraszamy
+  na stronę www.newgospel.pl gdzie można znaleźć więcej szczegółów dotyczących
+  tej propozycji kulturalnej. 
+
+  &nbsp;
+
+  -->
+source: jos
+title: Warsztaty GOSPEL
+publish_down: '0000-00-00 00:00:00'
+created: '2010-03-02 20:23:55'
+id: '883'
+original_introtext: >-
+  6-7 marca | <p><strong>Warsztaty gospel</strong> "UWIELBIENIE BOGA W MUZYCE
+  GOSPEL"</p>Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w
+  Polsce coraz większą popularność, jej ?czar? dzięki koncertom i imprezom
+  warsztatowym poznało już tysiące ludzi w naszym
+  kraju.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w
+  Warszawie odbędzie się 2- dniowe spotkanie z tym stylem muzycznym. III edycja
+  <span style="font-weight: bold;">OGÓLNOPOLSKICH WARSZTATÓW GOSPEL</span>
+  odbędzie się <span style="font-weight: bold;">od 6 do 7</span> marca w
+  warszawskim Domu Kultury Świt.&nbsp; Podczas warsztatów odbędą się zajęcia
+  chóralne, które poprowadzą: Mark Beswick (WB) i Brian Fentress (USA),&nbsp;
+  specjalną grupą dla muzyków zajmie się pianista Howard Francis (WB). Dzieci
+  będą uczyć się śpiewu gospel z instruktorką Anną Bajak, natomiast tancerka
+  Iwona Dreger nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak
+  tańczyć w rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach
+  mogą spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z
+  pewnością największym atutem tej interdyscyplinarnej i międzypokoleniowej
+  imprezy są wybitni instruktorzy, którzy współpracowali z czołówką artystów
+  muzyki rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem
+  Jonesem, Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem
+  Szcześniakiem, Natalią Kukulską i Trzecią Godziną
+  Dnia.<br><br>&nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym
+  KONCERTEM FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie
+  się&nbsp; w niedzielę, 7 marca, o godzinie
+  18.30.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby
+  podszkolić swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel
+  zapraszamy na stronę www.newgospel.pl gdzie można znaleźć więcej szczegółów
+  dotyczących tej propozycji kulturalnej. <br>&nbsp;
+original_fulltext: ''
+text-date: 6-7 marca
+after-2013-move:
+  content: >-
+    6-7 marca | 
+
+    **Warsztaty gospel** "UWIELBIENIE BOGA W MUZYCE GOSPEL"
+
+    Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w Polsce
+    coraz większą popularność, jej ?czar? dzięki koncertom i imprezom
+    warsztatowym poznało już tysiące ludzi w naszym kraju.
+
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w Warszawie odbędzie
+    się 2- dniowe spotkanie z tym stylem muzycznym. III edycja OGÓLNOPOLSKICH
+    WARSZTATÓW GOSPEL odbędzie się od 6 do 7 marca w warszawskim Domu Kultury
+    Świt.&nbsp; Podczas warsztatów odbędą się zajęcia chóralne, które
+    poprowadzą: Mark Beswick (WB) i Brian Fentress (USA),&nbsp; specjalną grupą
+    dla muzyków zajmie się pianista Howard Francis (WB). Dzieci będą uczyć się
+    śpiewu gospel z instruktorką Anną Bajak, natomiast tancerka Iwona Dreger 
+
+    nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak tańczyć w
+    rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą
+    spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością
+    największym atutem tej interdyscyplinarnej i międzypokoleniowej imprezy są
+    wybitni instruktorzy, którzy współpracowali z czołówką artystów muzyki
+    rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem,
+    Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem,
+    Natalią Kukulską i Trzecią Godziną Dnia.
+
+
+    &nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym KONCERTEM
+    FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie się&nbsp; w
+    niedzielę, 7 marca, o godzinie 18.30.
+
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby podszkolić
+    swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel
+    zapraszamy na stronę www.newgospel.pl gdzie można znaleźć 
+
+    więcej szczegółów dotyczących tej propozycji kulturalnej. 
+
+    &nbsp;
+  source: jom
+  title: Warsztaty GOSPEL
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '883'
+  original_introtext: >-
+    6-7 marca | <p><strong>Warsztaty gospel</strong> "UWIELBIENIE BOGA W MUZYCE
+    GOSPEL"</p>Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w
+    Polsce coraz większą popularność, jej ?czar? dzięki koncertom i imprezom
+    warsztatowym poznało już tysiące ludzi w naszym
+    kraju.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w
+    Warszawie odbędzie się 2- dniowe spotkanie z tym stylem muzycznym. III
+    edycja <span style="font-weight: bold;">OGÓLNOPOLSKICH WARSZTATÓW
+    GOSPEL</span> odbędzie się <span style="font-weight: bold;">od 6 do 7</span>
+    marca w warszawskim Domu Kultury Świt.&nbsp; Podczas warsztatów odbędą się
+    zajęcia chóralne, które poprowadzą: Mark Beswick (WB) i Brian Fentress
+    (USA),&nbsp; specjalną grupą dla muzyków zajmie się pianista Howard Francis
+    (WB). Dzieci będą uczyć się śpiewu gospel z instruktorką Anną Bajak,
+    natomiast tancerka Iwona Dreger 
+
+    nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak tańczyć w
+    rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą
+    spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością
+    największym atutem tej interdyscyplinarnej i międzypokoleniowej imprezy są
+    wybitni instruktorzy, którzy współpracowali z czołówką artystów muzyki
+    rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem,
+    Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem,
+    Natalią Kukulską i Trzecią Godziną Dnia.<br><br>&nbsp;&nbsp;&nbsp; Dwa dni
+    warsztatów zakończą się wspólnym KONCERTEM FINAŁOWYM z udziałem instruktorów
+    i uczestników, który odbędzie się&nbsp; w niedzielę, 7 marca, o godzinie
+    18.30.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które
+    chciałyby podszkolić swoje umiejętności i przeżyć&nbsp; udane spotkanie z
+    muzyką gospel zapraszamy na stronę www.newgospel.pl gdzie można znaleźć 
+
+    więcej szczegółów dotyczących tej propozycji kulturalnej. <br>&nbsp;
+  original_fulltext: ''
+  text-date: 6-7 marca
+time: 6-7 marca
+---
+6-7 marca | 
+**Warsztaty gospel** "UWIELBIENIE BOGA W MUZYCE GOSPEL"
+Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w Polsce coraz większą popularność, jej ?czar? dzięki koncertom i imprezom warsztatowym poznało już tysiące ludzi w naszym kraju.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w Warszawie odbędzie się 2- dniowe spotkanie z tym stylem muzycznym. III edycja OGÓLNOPOLSKICH WARSZTATÓW GOSPEL odbędzie się od 6 do 7 marca w warszawskim Domu Kultury Świt.&nbsp; Podczas warsztatów odbędą się zajęcia chóralne, które poprowadzą: Mark Beswick (WB) i Brian Fentress (USA),&nbsp; specjalną grupą dla muzyków zajmie się pianista Howard Francis (WB). Dzieci będą uczyć się śpiewu gospel z instruktorką Anną Bajak, natomiast tancerka Iwona Dreger 
+nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak tańczyć w rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością największym atutem tej interdyscyplinarnej i międzypokoleniowej imprezy są wybitni instruktorzy, którzy współpracowali z czołówką artystów muzyki rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem, Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem, Natalią Kukulską i Trzecią Godziną Dnia.
+
+&nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym KONCERTEM FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie się&nbsp; w niedzielę, 7 marca, o godzinie 18.30.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby podszkolić swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel zapraszamy na stronę www.newgospel.pl gdzie można znaleźć 
+więcej szczegółów dotyczących tej propozycji kulturalnej. 
+&nbsp;
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 6-7 marca | 
+**Warsztaty gospel** "UWIELBIENIE BOGA W MUZYCE GOSPEL"
+Muzyka gospel jednoczy ludzi różnych kultur i pokoleń, zdobywa w Polsce coraz większą popularność, jej ?czar? dzięki koncertom i imprezom warsztatowym poznało już tysiące ludzi w naszym kraju.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W pierwszy weekend marca w Warszawie odbędzie się 2- dniowe spotkanie z tym stylem muzycznym. III edycja OGÓLNOPOLSKICH WARSZTATÓW GOSPEL odbędzie się od 6 do 7 marca w warszawskim Domu Kultury Świt.&nbsp; Podczas warsztatów odbędą się zajęcia chóralne, które poprowadzą: Mark Beswick (WB) i Brian Fentress (USA),&nbsp; specjalną grupą dla muzyków zajmie się pianista Howard Francis (WB). Dzieci będą uczyć się śpiewu gospel z instruktorką Anną Bajak, natomiast tancerka Iwona Dreger nauczy chętnych do&nbsp; posługiwania się flagami i szarfami jak tańczyć w rytm gospelu. Swoich sił w śpiewie, tańcu i graniu na instrumentach mogą spróbować zarówno dzieci, jak i osoby dorosłe, w tym seniorzy. Z pewnością największym atutem tej interdyscyplinarnej i międzypokoleniowej imprezy są wybitni instruktorzy, którzy współpracowali z czołówką artystów muzyki rozrywkowej i chrześcijańskiej m.in. z Peterem Gabrielem, Tomem Jonesem, Arethą Franklin, Hillsong, Kirkiem Franklinem, Mietkiem Szcześniakiem, Natalią Kukulską i Trzecią Godziną Dnia.
+
+&nbsp;&nbsp;&nbsp; Dwa dni warsztatów zakończą się wspólnym KONCERTEM FINAŁOWYM z udziałem instruktorów i uczestników, który odbędzie się&nbsp; w niedzielę, 7 marca, o godzinie 18.30.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wszystkie osoby, które chciałyby podszkolić swoje umiejętności i przeżyć&nbsp; udane spotkanie z muzyką gospel zapraszamy na stronę www.newgospel.pl gdzie można znaleźć więcej szczegółów dotyczących tej propozycji kulturalnej. 
+&nbsp;
+-->
+
+<!--{{json:{"created_date":"2010-03-02 20:23:55","publish_down":"0000-00-00 00:00:00","id":"883"}}}-->

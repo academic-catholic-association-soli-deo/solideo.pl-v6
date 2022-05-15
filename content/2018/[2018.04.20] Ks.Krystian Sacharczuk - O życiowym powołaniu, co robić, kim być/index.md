@@ -1,0 +1,29 @@
+---
+time: '2018.04.20 19:00'
+title: 'Ks.Krystian Sacharczuk - O życiowym powołaniu, co robić, kim być'
+coverPhoto:
+  alt: 'Ks.Krystian Sacharczuk - O życiowym powołaniu, co robić, kim być'
+  path: dw2.jpg
+---
+Serdecznie zapraszamy wszystkich panów na kolejną konferencję z tegorocznego cyklu Drogi Wojownika. 
+
+Prelekcję wygłosi ks. Krystian Sacharczuk, który w 2009 roku zrezygnował z kariery aktorskiej (od 2004 do 2009 był aktorem w Warszawskim teatrze Buffo ) i poświęcił swoje życie Bogu oraz służbie drugiemu człowiekowi.
+
+Konferencja odbędzie się w piątek 20 kwietnia o godzinie 19:00, w Gmachu Głównym Politechniki Warszawskiej, sala 208
+Wstęp wolny. 
+
+Jeżeli chcesz zmienić swoje życie, wyjść naprzeciw stereotypom jakimi zasypują nas współczesne media, zbudować swój charakter i pewność siebie, jeżeli pragniesz stać się prawdziwym mężczyzną i wojownikiem, przyjdź i wysłuchaj prawdziwego autorytetu, a gwarantujemy Ci że wyjdziesz z tej konferencji silny duchem i gotowy do walki. ;)
+
+
+## Informacje
+
+
+Wydarzenie na Facebooku(https://www.facebook.com/events/1785094978464157/)<br />
+
+
+** Wstęp bezpłatny, Brak rezerwacji miejsc **
+
+
+
+## Cykl Droga Wojownika:
+Strona na facebooku(https://www.facebook.com/drogawojownikasd/)

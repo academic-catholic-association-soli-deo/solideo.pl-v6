@@ -1,0 +1,21 @@
+---
+time: '2018-03-15 19:00'
+title: 'Wiara teizmu a wiara ateizmu - Mateusz Jakubowski, Bartosz Sokół (SGH)'
+coverPhoto:
+  alt: Wiara teizmu a wiara ateizmu
+  path: wiara-teizmu.jpg
+---
+Czy wiara jest niesprzeczna z rozumem i rozwojem nauki? Zapraszamy na dwie prelekcje w ramach konferencji &bdquo;Wiara teizmu a wiara ateizmu&rdquo;. 
+1. &bdquo;Czy racjonalizm pogrzebał Boga?&rdquo; - Bartosz Sokół
+2. &bdquo;Czy nowoczesna nauka pogrzebała Boga?&rdquo; - Mateusz Jakubowski
+
+Konferencja odbędzie się 15 marca 2018 roku o godzinie 19.00 w auli V w budynku głównym SGH (aleja Niepodległości 162).
+
+Mateusz Jakubowski
+Ukończył Akademię Górniczo-Hutniczą w Krakowie z wyróżnieniem Magna Cum Laude, obecnie doktoryzuje się w zakresie nauk technicznych. Zajmuje go interakcja pomiędzy nauką a wiarą oraz rola rozumu w syntetycznym wyjaśnieniu Wszechświata.
+
+Bartosz Sokół
+Absolwent prawa na Uniwersytecie Śląskim oraz teologii w Wyższej Szkole Teologiczno-Społecznej w Warszawie. Interesuje się historią chrześcijaństwa w kontekstach społecznych i kulturowych, filozofią oraz apologetyką. Zachwycony Chrystusem.
+
+
+Strona wydarzenia na Facebooku: [facebook.com/events/596299670712477](https://web.facebook.com/events/596299670712477/)

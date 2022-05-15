@@ -1,0 +1,15 @@
+---
+time: '2018-03-13 19:00'
+title: 'Rekolekcje Silentium Sacrum - cisza, która ratuje życie (SGGW)'
+coverPhoto:
+  alt: Rekolekcje SGGW
+  path: rekolekcje.jpg
+---
+ASK Soli Deo SGGW ma zaszczyt zaprosić wszystkich na odbywające się na naszej uczelni rekolekcje wielkopostne &bdquo;Silentium Sacrum - cisza, która ratuje życie&rdquo;, które poprowadzi ks. Przemek Kawecki
+
+## Co w programie?
+- 13 i 14 marca o godz. 19:00 - konferencje w bud. 23, aulach I i II na Kampusie SGGW
+- 15 marca o godz. 17:00 - Msza Święta w bud. 24, auli I na Kampusie SGGW
+- 23 marca o godz. 18:30 - Droga Krzyżowa spod krzyża przy akademiku Bazyliszek do kościoła Św. Katarzyny przy ul. Fosa 17
+
+Koniecznie przyjdźcie i posłuchajcie razem z nami !!! :)

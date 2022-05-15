@@ -1,0 +1,45 @@
+---
+content: >-
+  30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć w
+  ten wtorek zostało odwołane. [br][b]Informacje dotyczące wyjazdu...[/b][br]
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 30 maja 2006 | Spotkanie
+  dotyczące wyjazdu na Lednicę, które miało się odbyć w ten wtorek zostało
+  odwołane. [br][b]Informacje dotyczące wyjazdu...[/b][br]
+
+  -->
+source: jos
+title: Spotkanie dotyczące Lednicy - odwołane!!!
+publish_down: '0000-00-00 00:00:00'
+created: '2006-05-29 13:26:16'
+id: '362'
+original_introtext: >-
+  30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć w
+  ten wtorek zostało odwołane. [br][b]Informacje dotyczące wyjazdu...[/b][br]
+original_fulltext: ''
+text-date: 30 maja 2006
+after-2013-move:
+  content: >-
+    30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć
+    w ten wtorek zostało odwołane. [br][b]Informacje dotyczące
+    wyjazdu...[/b][br]
+  source: jom
+  title: Spotkanie dotyczące Lednicy - odwołane!!!
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '362'
+  original_introtext: >-
+    30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć
+    w ten wtorek zostało odwołane. [br][b]Informacje dotyczące
+    wyjazdu...[/b][br]
+  original_fulltext: ''
+  text-date: 30 maja 2006
+time: 30 maja 2006
+---
+30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć w ten wtorek zostało odwołane. [br][b]Informacje dotyczące wyjazdu...[/b][br]
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 30 maja 2006 | Spotkanie dotyczące wyjazdu na Lednicę, które miało się odbyć w ten wtorek zostało odwołane. [br][b]Informacje dotyczące wyjazdu...[/b][br]
+-->
+
+<!--{{json:{"created_date":"2006-05-29 13:26:16","publish_down":"0000-00-00 00:00:00","id":"362"}}}-->

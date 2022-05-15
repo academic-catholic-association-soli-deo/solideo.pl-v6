@@ -1,0 +1,69 @@
+---
+content: >-
+  19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy
+  cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach". Pierwszym
+  gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu Europejskiego
+  Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam &#8211;
+  sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten
+  [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo
+  Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+
+
+  <!--CONTENT FROM OLD SERVER (jos before 2013): 19.10.2006 | Pod patronatem
+  Duszpasterstwa Akademickiego rozpoczyna się nowy cykl spotkań comiesięcznych
+  zatytułowany "Przy Otwartych Drzwiach". Pierwszym gościem będzie Pani dr Agata
+  Skowron-Nalborczyk z Zakładu Islamu Europejskiego Instytutu Orientalistycznego
+  UW. Poruszy ona temat: [u]Islam &#8211; sprzymierzeniec czy wróg
+  Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten [b]czwartek 19 października 
+  na godz. 20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61,
+  Warszawa (Metro Pole Mokotowskie)
+
+  -->
+source: jos
+title: DĄB
+publish_down: '0000-00-00 00:00:00'
+created: '2006-10-16 13:16:48'
+id: '392'
+original_introtext: >-
+  19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy
+  cykl spotkań comiesięcznych zatytułowany &quot;Przy Otwartych Drzwiach&quot;.
+  Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu
+  Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam
+  &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w
+  ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo
+  Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+original_fulltext: ''
+text-date: 19.10.2006
+after-2013-move:
+  content: >-
+    19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy
+    cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach".
+    Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu
+    Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam
+    &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy
+    w ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo
+    Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+  source: jom
+  title: DĄB
+  publish_down: '0000-00-00 00:00:00'
+  created: '2013-05-08 20:59:32'
+  id: '392'
+  original_introtext: >-
+    19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy
+    cykl spotkań comiesięcznych zatytułowany &quot;Przy Otwartych
+    Drzwiach&quot;. Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z
+    Zakładu Islamu Europejskiego Instytutu Orientalistycznego UW. Poruszy ona
+    temat: [u]Islam &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u]
+    Serdecznie zapraszamy w ten [b]czwartek 19 października  na godz.
+    20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61, Warszawa
+    (Metro Pole Mokotowskie)
+  original_fulltext: ''
+  text-date: 19.10.2006
+time: 19.10.2006
+---
+19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach". Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+
+<!--CONTENT FROM OLD SERVER (jos before 2013): 19.10.2006 | Pod patronatem Duszpasterstwa Akademickiego rozpoczyna się nowy cykl spotkań comiesięcznych zatytułowany "Przy Otwartych Drzwiach". Pierwszym gościem będzie Pani dr Agata Skowron-Nalborczyk z Zakładu Islamu Europejskiego Instytutu Orientalistycznego UW. Poruszy ona temat: [u]Islam &#8211; sprzymierzeniec czy wróg Chrześcijaństwa?[/u] Serdecznie zapraszamy w ten [b]czwartek 19 października  na godz. 20:00[/b].  [br]Duszpasterstwo Akademickie DĄB, ul.Rakowiecka 61, Warszawa (Metro Pole Mokotowskie)
+-->
+
+<!--{{json:{"created_date":"2006-10-16 13:16:48","publish_down":"0000-00-00 00:00:00","id":"392"}}}-->

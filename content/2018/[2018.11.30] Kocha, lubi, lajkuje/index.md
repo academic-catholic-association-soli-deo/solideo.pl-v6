@@ -1,0 +1,25 @@
+---
+time: 2018.11.30 19.00
+title: 'Kocha, lubi, lajkuje'
+coverPhoto:
+  alt: 'Kocha, lubi, lajkuje'
+  path: 30.jpg
+---
+Konferencja “Kocha, lubi, lajkuje, czyli o związku w dobie mediów społecznościowych” to ostatnia konferencja z cyklu “Laboratorium Miłości”. 
+
+Naszymi prelegentami będą pp. Monika i Marcin Gomułkowie, autorzy bloga “Początek wieczności”. Opowiedzą nam o tym, jak budować relację damsko-męską we współczesnym świecie, w którym dużą rolę odgrywają media społecznościowe.
+
+KIEDY? - 30 XI 2018 r., godz. 19:00
+GIDZIE? -Aula B w Auditorium Maximum na UW
+
+L͟a͟b͟o͟r͟a͟t͟o͟r͟i͟u͟m͟ ͟M͟i͟ł͟o͟ś͟c͟i͟ to sztandarowy projekt Akademickiego Stowarzyszenia Katolickiego Soli Deo na Uniwersytecie Warszawskim, który od 2005 roku pokazuje młodym ludziom, jak budować dobre relacje i jak kochać w dzisiejszym świecie.
+
+Wstęp wolny- zapraszamy wszystkich zainteresowanych!
+Nie prowadzimy rezerwacji miejsc.
+
+Zapraszamy do odwiedzenia strony naszych prelegentów:
+http://poczatekwiecznosci.pl/
+
+Strona wydarzenia na Facebooku(https://www.facebook.com/events/2278336265728487/)
+
+Link do profilu ASK Soli Deo(https://www.facebook.com/pg/SoliDeo1989) na Facebooku.
