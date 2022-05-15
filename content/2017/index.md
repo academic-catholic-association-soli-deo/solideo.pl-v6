@@ -1,0 +1,5 @@
+---
+type: list
+title: Archiwum 2017
+sitemap-changefreq: yearly
+---

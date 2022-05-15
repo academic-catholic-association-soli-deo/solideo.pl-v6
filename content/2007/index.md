@@ -1,0 +1,5 @@
+---
+type: list
+title: Archiwum 2007
+sitemap-changefreq: yearly
+---

@@ -1,0 +1,5 @@
+---
+type: list
+title: Archiwum 2015
+sitemap-changefreq: yearly
+---
