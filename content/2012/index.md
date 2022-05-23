@@ -1,5 +1,0 @@
----
-type: list
-title: Archiwum 2012
-sitemap-changefreq: yearly
----

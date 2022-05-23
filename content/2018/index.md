@@ -1,5 +1,0 @@
----
-type: list
-title: Aktualności 2018
-sitemap-changefreq: daily
----

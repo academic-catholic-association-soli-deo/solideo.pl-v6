@@ -1,5 +1,0 @@
----
-type: list
-title: Archiwum 2004
-sitemap-changefreq: yearly
----
