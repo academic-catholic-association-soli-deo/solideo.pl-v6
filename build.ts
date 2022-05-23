@@ -1,3 +1,5 @@
 import fs from 'fs';
+import { buildReactSite } from './build-react';
+
 fs.mkdirSync('./public', {recursive: true});
-fs.writeFileSync('./public/index.html', '<h1>SOli Deo</h1>')
+fs.writeFileSync('./public/index.html', buildReactSite());
