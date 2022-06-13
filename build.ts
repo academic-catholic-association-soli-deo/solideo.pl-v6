@@ -1,6 +1,6 @@
 import fs from 'fs';
 // @ts-ignore
-import { markdownToHtml } from './build-react.tsx'
+import { markdownToHtml, renderHomePage } from './build-react.tsx'
 // @ts-ignore
 import { getAllFiles } from './utils/recurisve-direcotry-listing.ts';
 import * as path from 'path'
@@ -22,3 +22,5 @@ for (const file of filesArr) {
     fs.cpSync(file, destinationPath);
   }
 }
+
+fs.writeFileSync('./public/index.html', renderHomePage(), 'utf8');
