@@ -5,7 +5,7 @@ import { markdownToHtml } from './build-react.tsx'
 import { getAllFiles } from './utils/recurisve-direcotry-listing.ts';
 import * as path from 'path'
 
-fs.rmSync('./public', {recursive: true});
+if (fs.existsSync('./public')) fs.rmSync('./public', {recursive: true});
 fs.mkdirSync('./public', {recursive: true});
 
 const filesArr = getAllFiles('./content', []);
