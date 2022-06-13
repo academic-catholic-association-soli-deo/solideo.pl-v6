@@ -2,20 +2,19 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import React, { ReactNode } from 'react'
 import ReactMarkdown from 'react-markdown'
 import yaml from 'yaml';
-import { string } from 'yaml/dist/schema/common/string'
 
-function MarkdownPage({ markdownContent, title }: {markdownContent: string, title: string}) {
-    return (
-        <Layout>
-          <h1>{title}</h1>
-          <ReactMarkdown>
-            {markdownContent}
-          </ReactMarkdown>
-        </Layout>
-    )
+function MarkdownPage({ markdownContent, title }: { markdownContent: string, title: string }) {
+  return (
+    <Layout>
+      <h1>{title}</h1>
+      <ReactMarkdown>
+        {markdownContent}
+      </ReactMarkdown>
+    </Layout>
+  )
 }
 
-function Layout({children}: {children: ReactNode}) {
+function Layout({ children }: { children: ReactNode }) {
   return (
     <React.StrictMode>
       <div>
@@ -31,7 +30,7 @@ export function markdownToHtml(markdownContent: string) {
   const frontmatter = yaml.parse(matchedGroups?.groups?.frontmatter || '');
   const markdown = matchedGroups?.groups?.markdown as string;
   return wrapHtml({
-    html: renderToStaticMarkup(<MarkdownPage markdownContent={markdown} title={frontmatter.title}/>),
+    html: renderToStaticMarkup(<MarkdownPage markdownContent={markdown} title={frontmatter.title} />),
     title: frontmatter.title,
   })
 };
@@ -61,5 +60,5 @@ function wrapHtml({ html, title }: { html: string; title: string }): string {
 }
 
 export function renderHomePage() {
-  return wrapHtml(  { html: renderToStaticMarkup(<HomePage/>), title: 'Strona główna'});
+  return wrapHtml({ html: renderToStaticMarkup(<HomePage />), title: 'Strona główna' });
 }
