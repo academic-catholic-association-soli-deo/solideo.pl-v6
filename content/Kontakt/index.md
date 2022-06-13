@@ -3,23 +3,23 @@ title: Kontakt
 sitemap-priority: 0.7
 sitemap-changefreq: monthly
 structuredData:
-	"@context": http://schema.org
-	"@type": Organization
-	url: https://www.solideo.pl
-	name: Akademickie Stowarzyszenie Katolickie Soli Deo
-	address:
-		"@type": PostalAddress
-		addressCountry: PL
-		addressLocality: Warszawa
-		addressRegion: Mazowieckie
-		postalCode: 00-661
-		streetAddress: plac Politechniki 1
-	email: kontakt@solideo.pl
-	logo: https://solideo.pl/img/solideo-logo-833x1000.png
-	sameAs:
-	- https://web.facebook.com/SoliDeo1989/
-	- https://www.instagram.com/asksolideo/
-	- https://www.youtube.com/user/AskSoliDeo
+  "@context": http://schema.org
+  "@type": Organization
+  url: https://www.solideo.pl
+  name: Akademickie Stowarzyszenie Katolickie Soli Deo
+  address:
+    "@type": PostalAddress
+    addressCountry: PL
+    addressLocality: Warszawa
+    addressRegion: Mazowieckie
+    postalCode: 00-661
+    streetAddress: plac Politechniki 1
+  email: kontakt@solideo.pl
+  logo: https://solideo.pl/img/solideo-logo-833x1000.png
+  sameAs:
+  - https://web.facebook.com/SoliDeo1989/
+  - https://www.instagram.com/asksolideo/
+  - https://www.youtube.com/user/AskSoliDeo
 ---
 
 Zapraszamy do kontaktu z naszym stowarzyszeniem. Możesz skontaktować się z
@@ -66,12 +66,12 @@ W sprawach technicznych proszę pisać na: &nbsp;&nbsp; _**tech.it@solideo.pl**_
 <script type="text/javascript" src="/Strona/Kontakt/Strona/watch.js"></script>
 <style>
     #zegar{
-    	width: 50%;
-    	font-family: 'Josefin Sans', sans-serif;
-    	font-size: 60px;
-    	margin-left: 38%;
-    	margin-right: auto;
-    	text-align: left;
+      width: 50%;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 60px;
+      margin-left: 38%;
+      margin-right: auto;
+      text-align: left;
     }
 </style>
 <div id="zegar"></div>
