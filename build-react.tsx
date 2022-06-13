@@ -1,14 +1,17 @@
 import { renderToStaticMarkup } from 'react-dom/server';
 import React from 'react';
+import ReactMarkdown from 'react-markdown'
 
-function App() {
+function App({ markdownContent }: {markdownContent: string}) {
     return (
-        <React.StrictMode>
-            <div>Hello, World!</div>
-        </React.StrictMode>
+      <React.StrictMode>
+        <ReactMarkdown>
+          {markdownContent}
+        </ReactMarkdown>
+      </React.StrictMode>
     )
 }
 
-export function buildReactSite() {
-    return renderToStaticMarkup(<App/>);
+export function markdownToHtml(markdownContent: string) {
+  return renderToStaticMarkup(<App markdownContent={markdownContent}/>);
 }
