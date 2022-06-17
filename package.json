@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "ts-node-esm build.ts",
+    "serve": "http-server public"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   },
   "devDependencies": {
     "@types/react-dom": "^18.0.4",
+    "http-server": "^14.1.1",
     "ts-node": "^10.8.0"
   }
 }
