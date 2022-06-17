@@ -15,8 +15,8 @@ export async function renderMDPage(fileContents: string) {
 };
 
 export async function renderMDXPage(fileContents: string) {
-  const { frontmatter } = extractFrontMatter(fileContents)
-  const { default: MDXContent } = await evaluate(fileContents, { ...(jsxRuntime as any) })
+  const { contents, frontmatter } = extractFrontMatter(fileContents)
+  const { default: MDXContent } = await evaluate(contents, { ...(jsxRuntime as any) })
   return renderReact(<MDXProvider><MDXContent components={components} /></MDXProvider >, frontmatter)
 };
 

@@ -4,6 +4,6 @@ export function extractFrontMatter(contentsWithFrontmatter: string): { frontmatt
   const matchedGroups = /^---(?<frontmatter>[\s\S]*)---(?<contents>[\s\S]*)$/gmy
     .exec(contentsWithFrontmatter);
   const frontmatter = yaml.parse(matchedGroups?.groups?.frontmatter || '');
-  const contents = matchedGroups?.groups?.markdown as string;
+  const contents = matchedGroups?.groups?.contents as string;
   return { frontmatter, contents }
 }
