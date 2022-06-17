@@ -1,5 +1,5 @@
-export function wrapHtml({ html, title }: { html: string; title: string }): string {
-  return (`<!DOCTYPE html>
+export function wrapHtml({ html, title, frontmatter }: { html: string; title: string, frontmatter: Record<string, any> }): string {
+    return (`<!DOCTYPE html>
     <html lang="pl">
     <head>
         <meta charset="utf-8">
