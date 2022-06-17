@@ -6,6 +6,10 @@ export function wrapHtml({ html, title, frontmatter }: { html: string; title: st
         <title>${title} - ASK Soli Deo</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="/style.css">
+        ${frontmatter.structuredData ?
+            `<script type="application/ld+json">${JSON.stringify(frontmatter.structuredData)}</script>`
+            : ''
+        }
     </head>
     <body>
         ${html}
