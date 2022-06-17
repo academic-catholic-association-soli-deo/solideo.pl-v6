@@ -1,18 +1,12 @@
 import { renderToStaticMarkup } from 'react-dom/server';
 import React from 'react'
-import yaml from 'yaml';
-import { HomePage, MarkdownPage, wrapHtml } from './components/index.js';
+import { MarkdownPage, wrapHtml } from './components/index.js';
+import { extractFrontMatter } from './utils/index.js';
 
 export function markdownToHtml(markdownContent: string) {
-  const matchedGroups = /^---(?<frontmatter>[\s\S]*)---(?<markdown>[\s\S]*)$/gmy.exec(markdownContent);
-  const frontmatter = yaml.parse(matchedGroups?.groups?.frontmatter || '');
-  const markdown = matchedGroups?.groups?.markdown as string;
+  const { contents, frontmatter } = extractFrontMatter(markdownContent)
   return wrapHtml({
-    html: renderToStaticMarkup(<MarkdownPage markdownContent={markdown} title={frontmatter.title} />),
+    html: renderToStaticMarkup(<MarkdownPage markdownContent={contents} title={frontmatter.title} />),
     title: frontmatter.title,
   })
 };
-
-export function renderHomePage() {
-  return wrapHtml({ html: renderToStaticMarkup(<HomePage />), title: 'Strona główna' });
-}
