@@ -1,5 +1,5 @@
 ---
-time: 2019.05.20 19.00
+time: 2019.05.20 19:00
 title: Służba rodzinie służbą Ojczyźnie
 coverPhoto:
   alt: Służba rodzinie służbą Ojczyźnie

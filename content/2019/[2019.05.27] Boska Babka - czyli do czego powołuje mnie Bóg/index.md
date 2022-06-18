@@ -1,5 +1,5 @@
 ---
-time: 2019.05.27 19.00
+time: 2019.05.27 19:00
 title: Boska Babka - czyli do czego powołuje mnie Bóg
 coverPhoto:
   alt: Boska Babka - czyli do czego powołuje mnie Bóg

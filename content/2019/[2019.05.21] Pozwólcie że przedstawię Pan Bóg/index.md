@@ -1,5 +1,5 @@
 ---
-time: 2019.05.21 19.00
+time: 2019.05.21 19:00
 title: 'Pozwólcie, że przedstawię, Pan Bóg'
 coverPhoto:
   alt: 'Pozwólcie, że przedstawię, Pan Bóg'

@@ -1,5 +1,5 @@
 ---
-time: 2019.05.30 18.00
+time: 2019.05.30 18:00
 title: W zgodzie z własnym sumieniem
 coverPhoto:
   alt: W zgodzie z własnym sumieniem

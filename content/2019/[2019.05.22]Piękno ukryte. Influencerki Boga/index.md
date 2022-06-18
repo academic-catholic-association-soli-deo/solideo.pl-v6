@@ -1,5 +1,5 @@
 ---
-time: 2019.05.22 19.00
+time: 2019.05.22 19:00
 title: Piękno ukryte. Influencerki Boga!
 coverPhoto:
   alt: Piękno ukryte. Influencerki Boga!

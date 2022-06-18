@@ -1,5 +1,5 @@
 ---
-time: 2019.05.06-19
+time: 2019.05.06
 title: Cykl Sympatia Miłość Małżeństwo
 coverPhoto:
   alt: SMM

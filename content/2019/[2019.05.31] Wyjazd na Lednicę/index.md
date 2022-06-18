@@ -1,5 +1,5 @@
 ---
-time: 2019.05.31 23.00
+time: 2019.05.31 23:00
 title: Wyjazd na Lednicę
 coverPhoto:
   alt: Wyjazd na Lednicę
