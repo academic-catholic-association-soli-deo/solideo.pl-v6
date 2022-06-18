@@ -1,7 +1,7 @@
 import { renderToStaticMarkup } from 'react-dom/server';
 import React from 'react'
 import * as jsxRuntime from 'react/jsx-runtime'
-import { Layout } from './components/index.js';
+import { Layout, SinglePageContent } from './components/index.js';
 import { wrapHtml } from './html.js';
 import { extractFrontMatter } from './utils/index.js';
 import { evaluate } from '@mdx-js/mdx';
@@ -12,7 +12,9 @@ import rehypeRaw from 'rehype-raw'
 
 export async function renderMDPage(fileContents: string) {
   const { contents, frontmatter } = extractFrontMatter(fileContents)
-  return renderReact(<ReactMarkdown rehypePlugins={[rehypeRaw]}>{contents}</ReactMarkdown>, frontmatter)
+  const component =
+    <ReactMarkdown rehypePlugins={[rehypeRaw]}>{contents}</ReactMarkdown>
+  return renderReact(component, frontmatter)
 };
 
 export async function renderMDXPage(fileContents: string) {
@@ -25,9 +27,10 @@ function renderReact(component: React.ReactNode, frontmatter: Record<string, any
   const title = frontmatter.title
   const html = renderToStaticMarkup(
     <Layout>
-      <h1>{title}</h1>
-      {component}
-    </Layout>
+      <SinglePageContent frontmatter={frontmatter}>
+        {component}
+      </SinglePageContent>
+    </Layout >
   )
   return wrapHtml({ html, title, frontmatter })
 }
