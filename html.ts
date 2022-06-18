@@ -22,6 +22,8 @@ export function wrapHtml({ html, title, frontmatter }: { html: string; title: st
 </head>
 <body>
     ${html}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/scripts.js"></script>
 </body>
 </html>
 `)
