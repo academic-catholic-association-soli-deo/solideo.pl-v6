@@ -5,6 +5,13 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/o-nas/kim-jestesmy/kim-jestesmy",
+        "destination": "/o-nas/kim-jestesmy",
+        "type": 302
+      }
     ]
   }
 }
