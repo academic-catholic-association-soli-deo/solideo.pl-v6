@@ -8,9 +8,104 @@
     ],
     "redirects": [
       {
-        "source": "/o-nas/kim-jestesmy/kim-jestesmy",
-        "destination": "/o-nas/kim-jestesmy",
-        "type": 302
+        "source": "o-nas/kim-jestesmy/kim-jestesmy",
+        "destination": "o-nas/kim-jestesmy",
+        "type": 301
+      },
+      {
+        "source": "o-nas/kim-jestesmy/patron",
+        "destination": "o-nas/patron",
+        "type": 301
+      },
+      {
+        "source": "o-nas/kim-jestesmy/historia",
+        "destination": "o-nas/historia",
+        "type": 301
+      },
+      {
+        "source": "o-nas/kim-jestesmy/nasz-opiekun",
+        "destination": "o-nas/nasz-opiekun",
+        "type": 301
+      },
+      {
+        "source": "o-nas/jak-dolaczyc",
+        "destination": "o-nas/dolacz-do-nas",
+        "type": 301
+      },
+      {
+        "source": "o-nas/inne/najczesciej-zadawane-pytania",
+        "destination": "o-nas/faq",
+        "type": 301
+      },
+      {
+        "source": "o-nas/inne",
+        "destination": "o-nas/ciekawostki",
+        "type": 301
+      },
+      {
+        "source": "kontakt/sekcje",
+        "destination": "o-nas/sekcje",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/sgh",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/pw",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/uw",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/sggw",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/uksw",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/ukswk",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/sgh",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/ump",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/kola-terenowe/wum",
+        "destination": "kontakt/kola-terenowe",
+        "type": 301
+      },
+      {
+        "source": "kontakt/duszpasterz",
+        "destination": "o-nas/nasz-opiekun",
+        "type": 301
+      },
+      {
+        "source": "multimedia",
+        "destination": "multimedia/multimedia",
+        "type": 301
+      },
+      {
+        "source": "2013/2013.10.16-kontakt",
+        "destination": "kontakt",
+        "type": 301
       }
     ]
   }
