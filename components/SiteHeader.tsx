@@ -1,4 +1,5 @@
 import React from 'react'
+import { SocialIcons } from './SocialIcons.jsx'
 
 export function SiteHeader() {
   return <header>
@@ -18,7 +19,7 @@ export function SiteHeader() {
     </a>
 
     <div id="social-icons" className="hidden-xs">
-      php echo file_get_contents(CONTENT_DIRECTORY_PATH . '/social-icons.html');
+      <SocialIcons />
     </div>
 
     <div id="way-left">&nbsp;</div>
