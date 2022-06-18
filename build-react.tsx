@@ -8,10 +8,11 @@ import { evaluate } from '@mdx-js/mdx';
 import ReactMarkdown from 'react-markdown'
 import { MDXProvider } from '@mdx-js/react';
 import * as components from './components/index.js'
+import rehypeRaw from 'rehype-raw'
 
 export async function renderMDPage(fileContents: string) {
   const { contents, frontmatter } = extractFrontMatter(fileContents)
-  return renderReact(<ReactMarkdown>{contents}</ReactMarkdown>, frontmatter)
+  return renderReact(<ReactMarkdown rehypePlugins={[rehypeRaw]}>{contents}</ReactMarkdown>, frontmatter)
 };
 
 export async function renderMDXPage(fileContents: string) {
