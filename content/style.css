@@ -6095,3 +6095,17 @@ img.patronH:hover {
     -o-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+#side30 {
+    border: solid white;
+    border-width: 5px 5px 0px 5px;
+    border-radius: 0px;
+    margin-bottom: 12px;
+    transition: all .3s ease-in-out;
+}
+
+#side30:hover {
+    border: 3px solid yellow;
+    border-radius: 10px;
+    margin-bottom: 4px;
+}
