@@ -6,7 +6,6 @@ export function SiteNavMain() {
       <Navbar>
         <NavLink href="/">Aktualności</NavLink>
         <NavDropdown title="O nas">
-          <NavLink href="/">Aktualności</NavLink>
           <NavLink href="/o-nas/kim-jestesmy">Kim jesteśmy?</NavLink>
           <NavLink href="/o-nas/patron">Patron</NavLink>
           <NavLink href="/o-nas/historia">Historia</NavLink>
@@ -49,7 +48,7 @@ function NavLink({ href, children }: { href: string, children: string }) {
 
 function NavDropdown({ title, children }: { title: string, children: React.ReactNode }) {
   return <li className="dropdown">
-    <a href="javascript:void(0);" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+    <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
       {title}
       <span className="caret"></span>
     </a>
