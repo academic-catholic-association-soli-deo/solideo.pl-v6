@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="row">
         <div className="col-sm-4 col-xs-6 footer-column">
           <p>
-            <strong style={{ fontSize: "1.4em;" }}>kontakt@solideo.pl</strong><br />
+            <strong style={{ fontSize: "1.4em" }}>kontakt@solideo.pl</strong><br />
           </p>
           <p>
             <strong>Adres korespondencyjny:</strong><br />

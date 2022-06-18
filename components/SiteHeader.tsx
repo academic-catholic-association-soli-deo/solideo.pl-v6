@@ -1,5 +1,6 @@
 import React from 'react'
 import { SocialIcons } from './SocialIcons.jsx'
+import * as fs from "fs"
 
 export function SiteHeader() {
   return <header>
@@ -26,26 +27,19 @@ export function SiteHeader() {
 
 
     <div id="members-img">
-      {`<?php
-      $dirIterator = new DirectoryIterator(CONTENT_DIRECTORY_PATH."/header-foto/");
-      $imgs = array();
-      foreach($dirIterator as $node) {
-        if(!$node->isDir() && !$node->isDot() && $node->getFilename()[0] != '_' && $node->isReadable() && $node->getExtension() == "jpg") {
-        $imgs[] = $node -> getFilename();
-        }
-    }
-
-      $intervalS = 60*30;//change every 30 minutes
-
-      $loadedI = false;
-    if(isset($_GET['header_i'])) $loadedI = filter_input(INPUT_GET, 'header_i', FILTER_VALIDATE_INT, array('options'=>array('min_range' => 0, 'max_rande' => count($imgs)-1)));
-
-      $i = ($loadedI !== false? $loadedI : ((int)floor(time()/$intervalS))%count($imgs));
-    //echo '<!-- floor(time()/$intervalS))='.((double)time()/(double)$intervalS).' count($imgs)='.count($imgs).', $i='.$i.' -->';
-      echo '<img src="/'.CONTENT_DIRECTORY." /header-foto/".$imgs[$i].'" alt="Zdjęcie członków stowarzyszenia ('.$i.')"/>';
-    ?>`}
-
+      <HeaderFoto />
       <div className="shadow"></div>
     </div>
   </header>
+}
+
+function HeaderFoto() {
+  const photosDir = 'content/header-foto'
+  const files = fs.readdirSync(photosDir)
+    .filter(item => !item.startsWith("."))
+    .filter(item => !item.startsWith("_"))
+    .filter(item => item.endsWith(".jpg"))
+  const randomFile = files[Math.floor(Math.random() * files.length)]
+  const fullImgPath = `/header-foto/${randomFile}`
+  return <img src={fullImgPath} alt="Zdjęcie członków stowarzyszenia" />
 }
