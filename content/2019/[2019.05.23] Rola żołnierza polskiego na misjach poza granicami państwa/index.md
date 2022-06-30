@@ -1,5 +1,5 @@
 ---
-time: 2019.05.23 19.00
+time: 2019.05.23 19:00
 title: Rola żołnierza polskiego na misjach poza granicami państwa
 coverPhoto:
   alt: Rola żołnierza polskiego na misjach poza granicami państwa

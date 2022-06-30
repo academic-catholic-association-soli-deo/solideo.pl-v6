@@ -61,17 +61,3 @@ Akademickie Stowarzyszenie Katolickie Soli Deo<br /> Plac Politechniki 1 <br />
 00-661 Warszawa<br /> NIP: 951-20-69-241
 
 W sprawach technicznych proszę pisać na: &nbsp;&nbsp; _**tech.it@solideo.pl**_
-
-<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300|Lato&amp;subset=latin-ext" rel="stylesheet">
-<script type="text/javascript" src="/Strona/Kontakt/Strona/watch.js"></script>
-<style>
-    #zegar{
-      width: 50%;
-      font-family: 'Josefin Sans', sans-serif;
-      font-size: 60px;
-      margin-left: 38%;
-      margin-right: auto;
-      text-align: left;
-    }
-</style>
-<div id="zegar"></div>

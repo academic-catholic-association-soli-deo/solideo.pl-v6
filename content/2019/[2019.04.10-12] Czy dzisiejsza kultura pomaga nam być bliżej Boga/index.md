@@ -1,5 +1,5 @@
 ---
-time: 2019.04.10-12 19.00
+time: 2019.04.10 19:00
 title: Czy dzisiejsza kultura pomaga nam być bliżej Boga? - konferencje
 coverPhoto:
   alt: Czy dzisiejsza kultura pomaga nam być bliżej Boga?

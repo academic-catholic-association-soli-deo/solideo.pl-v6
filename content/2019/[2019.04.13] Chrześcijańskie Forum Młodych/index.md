@@ -1,5 +1,5 @@
 ---
-time: 2019.04.13 8.00
+time: 2019.04.13 8:00
 title: ChFM
 coverPhoto:
   alt: Chrześcijańskie Forum Młodych

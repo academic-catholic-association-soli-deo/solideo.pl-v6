@@ -1,5 +1,5 @@
 ---
-time: 2019.05.18 19.00
+time: 2019.05.18 19:00
 title: Bal Sympatia Miłość Małżeństwo
 coverPhoto:
   alt: SMM

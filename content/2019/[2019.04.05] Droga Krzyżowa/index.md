@@ -1,5 +1,5 @@
 ---
-time: 2019.04.05 19.00
+time: 2019.04.05 19:00
 title: Droga Krzyżowa
 coverPhoto:
   alt: Droga Krzyżowa

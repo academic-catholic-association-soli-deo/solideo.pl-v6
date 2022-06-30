@@ -1,5 +1,5 @@
 ---
-time: 2019.05.06 19.00
+time: 2019.05.06 19:00
 title: Przez kobietę do wiary
 coverPhoto:
   alt: SMM

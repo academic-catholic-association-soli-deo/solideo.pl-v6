@@ -1,5 +1,5 @@
 ---
-time: 2019.04.11 18.00
+time: 2019.04.11 18:00
 title: Wstąp do Soli Deo
 coverPhoto:
   alt: Wstąp do Soli Deo!

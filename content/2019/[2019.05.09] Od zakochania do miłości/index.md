@@ -1,5 +1,5 @@
 ---
-time: 2019.05.09 19.00
+time: 2019.05.09 19:00
 title: Od zakochania do miłości
 coverPhoto:
   alt: SMM

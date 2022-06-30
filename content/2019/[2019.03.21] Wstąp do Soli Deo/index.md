@@ -1,5 +1,5 @@
 ---
-time: 2019.03.21 18.30
+time: 2019.03.21 18:30
 title: Wstąp do Soli Deo!
 coverPhoto:
   alt: Wstąp do Soli Deo!
