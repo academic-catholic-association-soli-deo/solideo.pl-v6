@@ -1,64 +1,32 @@
 import { renderToStaticMarkup } from 'react-dom/server';
-import React, { ReactNode } from 'react'
+import React from 'react'
+import * as jsxRuntime from 'react/jsx-runtime'
+import { Layout } from './components/index.js';
+import { wrapHtml } from './html.js';
+import { extractFrontMatter } from './utils/index.js';
+import { evaluate } from '@mdx-js/mdx';
 import ReactMarkdown from 'react-markdown'
-import yaml from 'yaml';
+import { MDXProvider } from '@mdx-js/react';
+import * as components from './components/index.js'
 
-function MarkdownPage({ markdownContent, title }: { markdownContent: string, title: string }) {
-  return (
-    <Layout>
-      <h1>{title}</h1>
-      <ReactMarkdown>
-        {markdownContent}
-      </ReactMarkdown>
-    </Layout>
-  )
-}
-
-function Layout({ children }: { children: ReactNode }) {
-  return (
-    <React.StrictMode>
-      <div>
-        <h1>Soli Deo</h1>
-        {children}
-      </div>
-    </React.StrictMode>
-  )
-}
-
-export function markdownToHtml(markdownContent: string) {
-  const matchedGroups = /^---(?<frontmatter>[\s\S]*)---(?<markdown>[\s\S]*)$/gmy.exec(markdownContent);
-  const frontmatter = yaml.parse(matchedGroups?.groups?.frontmatter || '');
-  const markdown = matchedGroups?.groups?.markdown as string;
-  return wrapHtml({
-    html: renderToStaticMarkup(<MarkdownPage markdownContent={markdown} title={frontmatter.title} />),
-    title: frontmatter.title,
-  })
+export async function renderMDPage(fileContents: string) {
+  const { contents, frontmatter } = extractFrontMatter(fileContents)
+  return renderReact(<ReactMarkdown>{contents}</ReactMarkdown>, frontmatter)
 };
 
-function HomePage() {
-  return (
+export async function renderMDXPage(fileContents: string) {
+  const { contents, frontmatter } = extractFrontMatter(fileContents)
+  const { default: MDXContent } = await evaluate(contents, { ...(jsxRuntime as any) })
+  return renderReact(<MDXProvider><MDXContent components={components} /></MDXProvider >, frontmatter)
+};
+
+function renderReact(component: React.ReactNode, frontmatter: Record<string, any>) {
+  const title = frontmatter.title
+  const html = renderToStaticMarkup(
     <Layout>
-      <h1>Hello!</h1>
+      <h1>{title}</h1>
+      {component}
     </Layout>
   )
-}
-
-function wrapHtml({ html, title }: { html: string; title: string }): string {
-  return (`<!DOCTYPE html>
-    <html lang="pl">
-    <head>
-        <meta charset="utf-8">
-        <title>${title} - ASK Soli Deo</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="/style.css">
-    </head>
-    <body>
-        ${html}
-    </body>
-    </html>
-`)
-}
-
-export function renderHomePage() {
-  return wrapHtml({ html: renderToStaticMarkup(<HomePage />), title: 'Strona główna' });
+  return wrapHtml({ html, title, frontmatter })
 }
