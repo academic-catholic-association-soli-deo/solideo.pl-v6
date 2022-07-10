@@ -30,7 +30,7 @@ export function transposePath(
   const sourceDirResolved = path.resolve(sourceDir)
   const targetDirResolved = path.resolve(targetDir)
   const filepathResolved = path.resolve(filepath)
-  const destPath = path.join(targetDirResolved, sourceDirResolved, filepathResolved);
+  const destPath = path.join(targetDirResolved, path.relative(sourceDirResolved, filepathResolved));
   if (extension) {
     return destPath.replaceAll(/\.[a-zA-Z0-9]+$/gmi, '.' + extension)
   }
