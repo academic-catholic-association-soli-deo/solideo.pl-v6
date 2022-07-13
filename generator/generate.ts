@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { renderMDPage, renderMDXPage } from './build-react.js'
-import { cleanTargetDirectory, copyFile, getAllFiles, getParentDirectory, hasSubdirectories, makePath, readMarkdownFile, transposePath, writeFile } from './utils/index.js';
+import { cleanTargetDirectory, copyFile, getAllFiles, getParentDirectory, hasSubdirectories, isMarkdownFile, isMDXFile, makePath, readMarkdownFile, transposePath, writeFile } from './utils/index.js';
 import * as path from 'path'
 import { Config } from './types.js';
 import { ListLayoutWithItems } from './lists.js';
@@ -48,19 +48,11 @@ async function markdownFileToHtml(file: string, config: Config) {
   const { mdxComponents, layouts } = config
   let layout = layouts.single;
   if (hasSubdirectories(getParentDirectory(file))) {
-    layout = ListLayoutWithItems(layouts.list)
+    layout = await ListLayoutWithItems(layouts.list, file)
   }
   const { contents, frontmatter } = readMarkdownFile(file)
   const title = frontmatter.title || ''
   const html = isMDXFile(file) ? await renderMDXPage({ contents, frontmatter, components: mdxComponents, layout })
     : await renderMDPage({ contents, frontmatter, layout })
   return config.htmlWrapperFn({ html, frontmatter, title })
-}
-
-function isMarkdownFile(file: string) {
-  return /\.mdx?$/.test(file)
-}
-
-function isMDXFile(file: string) {
-  return /\.mdx$/.test(file)
 }

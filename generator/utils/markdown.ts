@@ -6,6 +6,14 @@ export function readMarkdownFile(file: string): { frontmatter: Record<string, an
   return extractFrontMatter(contents)
 }
 
+export function isMarkdownFile(file: string) {
+  return /\.mdx?$/.test(file)
+}
+
+export function isMDXFile(file: string) {
+  return /\.mdx$/.test(file)
+}
+
 function extractFrontMatter(contentsWithFrontmatter: string): { frontmatter: Record<string, any>, contents: string } {
   const matchedGroups = /^---(?<frontmatter>[\s\S]*)---(?<contents>[\s\S]*)$/gmy
     .exec(contentsWithFrontmatter);
@@ -13,3 +21,4 @@ function extractFrontMatter(contentsWithFrontmatter: string): { frontmatter: Rec
   const contents = matchedGroups?.groups?.contents as string;
   return { frontmatter, contents }
 }
+

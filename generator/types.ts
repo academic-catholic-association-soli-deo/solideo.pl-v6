@@ -11,15 +11,16 @@ export interface Config {
   htmlWrapperFn: HtmlWrapperFn
 }
 
-export type LayoutComponentSinglePage = (props: {
+interface LayoutComponentSinglePageProps {
   frontmatter: Record<string, any>,
   children: React.ReactNode
-}) => JSX.Element
+}
+export type LayoutComponentSinglePage = (props: LayoutComponentSinglePageProps) => JSX.Element
 
 export type LayoutComponentListPage = (props: {
   frontmatter: Record<string, any>,
   children: React.ReactNode,
-  items: Parameters<LayoutComponentSinglePage>[]
+  items: LayoutComponentSinglePageProps[]
 }) => JSX.Element
 
 export type HtmlWrapperFn = (props: { html: string, title: string, frontmatter: Record<string, any> }) => string

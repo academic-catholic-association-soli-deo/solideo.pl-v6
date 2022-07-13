@@ -1,5 +1,5 @@
 import * as components from './components/index.js'
-import { Layout, SinglePageLayout } from './components/index.js'
+import { Layout, ListPageLayout, SinglePageLayout } from './components/index.js'
 import { generateStaticWebsite } from './generator/index.js';
 
 await generateStaticWebsite({
@@ -8,7 +8,7 @@ await generateStaticWebsite({
   mdxComponents: components,
   layouts: {
     single: SinglePageLayout,
-    list: Layout,
+    list: ListPageLayout,
   },
   htmlWrapperFn: ({ html, title, frontmatter }: { html: string; title: string, frontmatter: Record<string, any> }) => (`<!DOCTYPE html>
   <html lang="pl">
