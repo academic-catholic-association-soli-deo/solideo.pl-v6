@@ -1,6 +1,14 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+export function getChildFiles(dirPath: string) {
+  const files = fs.readdirSync(dirPath);
+  return files.filter(file => {
+    const fullPath = path.join(dirPath, file)
+    return fs.statSync(fullPath).isFile()
+  }).map(filename => path.join(dirPath, filename))
+}
+
 export function cleanTargetDirectory(targetDir: string) {
   if (fs.existsSync(targetDir)) fs.rmSync(targetDir, { recursive: true });
   fs.mkdirSync(targetDir, { recursive: true });

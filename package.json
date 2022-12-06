@@ -2,10 +2,8 @@
   "name": "solideo.pl-v6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "type": "module",
   "scripts": {
-    "build": "ts-node-esm build.ts",
+    "build": "ts-node build.ts",
     "serve": "http-server public"
   },
   "repository": {

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { renderMDPage, renderMDXPage } from './build-react.js'
-import { cleanTargetDirectory, copyFile, getAllFiles, getParentDirectory, hasSubdirectories, isMarkdownFile, isMDXFile, makePath, readMarkdownFile, transposePath, writeFile } from './utils/index.js';
+import { cleanTargetDirectory, copyFile, getParentDirectory, hasSubdirectories, isMarkdownFile, isMDXFile, makePath, readMarkdownFile, transposePath, writeFile } from './utils/index.js';
 import * as path from 'path'
 import { Config } from './types.js';
 import { ListLayoutWithItems } from './lists.js';
@@ -8,7 +8,7 @@ import { ListLayoutWithItems } from './lists.js';
 export async function generateStaticWebsite(config: Config) {
   const cleanConfig = sanitizeConfig(config)
   cleanTargetDirectory(cleanConfig.targetDir)
-  for (const file of getAllFiles(cleanConfig.contentDir)) {
+  for (const file of []) {
     makePath(transposePath(file, { sourceDir: cleanConfig.contentDir, targetDir: cleanConfig.targetDir }))
     await transformFile(file, cleanConfig)
   }
