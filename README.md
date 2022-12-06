@@ -8,7 +8,7 @@ This is the 6th generation of Solideo.pl website.
 
 ### Functional
 
-1. Posts have layouts
+1. Posts have layouts: there is a single layout and a list layout
 2. Posts have structured data
 3. There is a sitemap
 4. Posts are organized by years
@@ -17,6 +17,7 @@ This is the 6th generation of Solideo.pl website.
 7. There is a dropdown structured menu
 8. URLs from old websites are preserved for SEO
 9. The sidebar and menu are configured via markdown/json/yml
+10. List pages have excerpts rendered
 
 ### Quality attributes
 
